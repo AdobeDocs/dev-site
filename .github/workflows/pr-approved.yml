@@ -92,7 +92,7 @@ jobs:
           npm run build
           mkdir $GITHUB_WORKSPACE/dist
           if [ "$PATH_PREFIX" = "%%none%%" ]; then
-            PATH_PREFIX = ""
+            export PATH_PREFIX = ""
           fi
           mv $GITHUB_WORKSPACE/public $GITHUB_WORKSPACE/dist/$PATH_PREFIX
         env:
@@ -168,7 +168,7 @@ jobs:
           npm run build
           mkdir $GITHUB_WORKSPACE/dist
           if [ "$PATH_PREFIX" = "%%none%%" ]; then
-            PATH_PREFIX = ""
+            export PATH_PREFIX = ""
           fi
           mv $GITHUB_WORKSPACE/public $GITHUB_WORKSPACE/dist/$PATH_PREFIX
         env:
