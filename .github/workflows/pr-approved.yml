@@ -91,6 +91,9 @@ jobs:
           npm install
           npm run build
           mkdir $GITHUB_WORKSPACE/dist
+          if [ "$PATH_PREFIX" = "%%none%%" ]; then
+            PATH_PREFIX = ""
+          fi
           mv $GITHUB_WORKSPACE/public $GITHUB_WORKSPACE/dist/$PATH_PREFIX
         env:
           PREFIX_PATHS: ${{ secrets.PREFIX_PATHS }} # equivalent to --prefix-paths flag for 'gatsby build'
@@ -164,6 +167,9 @@ jobs:
           npm install
           npm run build
           mkdir $GITHUB_WORKSPACE/dist
+          if [ "$PATH_PREFIX" = "%%none%%" ]; then
+            PATH_PREFIX = ""
+          fi
           mv $GITHUB_WORKSPACE/public $GITHUB_WORKSPACE/dist/$PATH_PREFIX
         env:
           PREFIX_PATHS: ${{ secrets.PREFIX_PATHS }} # equivalent to --prefix-paths flag for 'gatsby build'
