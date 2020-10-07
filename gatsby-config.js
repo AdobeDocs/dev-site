@@ -12,18 +12,18 @@
 
 const globalNav = require('@adobe/gatsby-theme-parliament/globalNav.json');
 
-globalNav.menus = [globalNav.menus[0]];
+globalNav.menus = [globalNav.menus[3]];
 
 module.exports = {
   siteMetadata: {
     globalNav,
     pages: [
       {
-        title: 'Adobe Creative Cloud',
+        title: 'Home',
         path: '/'
       }
     ]
   },
   plugins: [`@adobe/gatsby-theme-parliament`],
-  pathPrefix: process.env.PATH_PREFIX || '/gatsby-theme-parliament-platform'
+  pathPrefix: process.env.PATH_PREFIX || '/dev-site'
 };

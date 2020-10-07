@@ -1,34 +1,62 @@
 ---
-title: Home - Creative Cloud
-description: This is the home page of Creative Cloud 
+GlobalHeaderTemp: true  
 ---
- 
-<Hero slots="image, heading, icon, text, buttons" variant="halfwidth" />
 
-![Creative Cloud banner](images/cc-hero.png)
+<Hero slots="image, heading, text, buttons" variant="fullwidth" background="rgb(51, 51, 51)" />
 
-# Creativity for all
+![IO banner](images/io-banner.png)
 
-![Creative Cloud icon](images/cc-icon.png)
+# The most memorable digital experiences are unleashed by developer creativity
 
-Creative Cloud services include tools and capabilities to streamline your workflows so that you, your team, and your stakeholders stay perfectly in sync across projects of any size 
+Adobe products and technologies power them
 
-* [Get started](https://adobe.io)
-* [Sign up for the newsletter](https://adobe.io)
+* [Explore our APIs](https://adobe.io/apis/)
+
+
 
 <AnnouncementBlock slots="heading, text, button" />
 
-### Try out the magic of Photoshop
+### Adobe MAX, The Creativity Conference
 
-Pull together Photoshop, Lightroom and Adobe Sensei into one place. Reduce time spent in each app, freeing you up for more creative time.
+Three full days of luminary speaker, celebrity appearances, musical performances, global collaborative art projects, and 350+ sessions - and all at no cost.
 
-[Demo](https://www.adobe.io/apis/creativecloud/photo-imaging-api/api-demo.html)
+[Register for MAX](https://max.adobe.com/)
 
-<TextBlock slots="image, heading, text1, text2, links" />
 
-![Screenshot 1](images/intro1.png)
 
-### Extend Adobe CC Flagship Apps
+<TextBlock slots="image, heading, text" width="33%" theme="light" isCentered />
+
+![Home illustration 1](images/home-illustration1.png)
+
+### Why build with Adobe ?
+
+Our mobile, cloud, and web technologies unlock building potential as boundless as the power of your imagination.
+
+
+
+<TextBlock slots="image, heading, text" width="33%" theme="light" isCentered />
+
+![Home illustration 2](images/home-illustration2.png)
+
+### Integrate with APIs
+
+We built our reputation on our Creative, Document, and Experience Cloud products. Use our APIs as the foundation for yours.  
+
+
+
+<TextBlock slots="image, heading, text" width="33%" theme="light" isCentered />
+
+![Home illustration 3](images/home-illustration3.png)
+
+### Developer Console
+
+A single hub for managing projects, assigning credentials, viewing analytics, and accessing APIs.
+
+
+
+<TextBlock slots="heading, text1, text2, buttons, image" />
+
+### Extend the Creative Cloud experience
 
 Extend Creative Cloud desktop apps like [Photoshop](https://www.adobe.com/products/photoshop.html), [Premiere Pro](https://www.adobe.com/products/premiere.html), and [InDesign](https://www.adobe.com/products/indesign.html) through our APIs and SDKs. 
 Be sure to check out [Common Extensibility Platform (CEP)](https://www.adobe.io/apis/creativecloud/cep.html), which lets you build custom UI panels for multiple CC apps at once.
@@ -36,83 +64,148 @@ Be sure to check out [Common Extensibility Platform (CEP)](https://www.adobe.io/
 When you're ready to ship, distribute your work on [Adobe Exchange](https://exchange.adobe.com/), the preferred marketplace for Adobe Creative Cloud users. 
 And be sure to join the [Exchange Program for Creative Cloud](https://partners.adobe.com/exchangeprogram/creativecloud) to unlock more benefits, including streamlined publishing and promotional opportunities.
 
-* ![Adobe Premiere Pro](images/pr-icon.png) [Adobe Premiere Pro](https://www.adobe.com/products/premiere.html)
-* ![Adobe InDesign](images/ai-icon.png) [Adobe InDesign](https://www.adobe.com/products/indesign.html)
-* ![Adobe After Effect](images/ae-icon.png) [Adobe After Effect](https://www.adobe.com/products/aftereffects.html)   
+* [Learn more](https://www.adobe.io/apis/creativecloud.html)
 
-<TextBlock slots="heading, text, buttons, links, image"/>
+![cc-banner](https://via.placeholder.com/1000x600)
 
-### Start Building Adobe XD Plugins
 
-Create plugins for Adobe XD that push the boundaries of experience design by adding new features to the app, automating workflows, connecting XD to external services, and more—all on a quick, modern JavaScript engine with native UI components. 
-When you’re ready, you can ship your plugin to XD users right from within the app.
 
-* [Get started](https://adobe.io)
-* [Sign up for the newsletter](https://adobe.io)
+<TextBlock slots="image, heading, text, buttons" />
 
-- [No Icon Product](https://www.adobe.com/products/premiere.html)
+![dc-banner](https://via.placeholder.com/1000x600)
 
-![Screenshot 2](images/intro2.png)
+### Build engaging document experiences
 
-<TitleBlock slots="heading, text" theme="light" />
+Modern cloud-based APIs for embedded viewing and manipulation of PDFs. Provide a rich viewing experience and enable collaboration with [PDF Embed API](https://www.adobe.io/apis/documentcloud/dcsdk/pdf-embed.html).
+Manipulate PDF in document workflows with [PDF Tools API](https://www.adobe.io/apis/documentcloud/dcsdk/pdf-tools.html).
 
-### Collaborate better with Content Cloud APIs
+* [Learn more](https://www.adobe.io/apis/documentcloud.html)
 
-With the Cloud Content APIs, you can bring design work created in XD directly to your product or service.
 
-<TextBlock slots="image, heading, text, links" width="33%" theme="light" isCentered />
 
-![MSFT Teams logo](images/msfteams.png)
+<TextBlock slots="heading, text, buttons, image" />
 
-### Microsoft teams
+### Experience Cloud's Dev feature
 
-Easily share Creative Cloud assets and files, and get comment notifications on your prototypes.
+Adobe Experience Platform is the most powerful, flexible, and open system on the market for building and managing complete solutions that drive customer experience.
+Platform enables organizations to centralize and standardize customer data and content from any system and apply data science and machine learning to dramatically improve the design and delivery of rich, personalized customer experiences. 
 
-* [Learn more](https://www.microsoft.com/microsoft-365/microsoft-teams/group-chat-software)
+* [Learn more](https://www.adobe.io/apis/experienceplatform.html)
 
-<TextBlock slots="image, heading, text, links" width="33%" theme="light" isCentered />
+![exc-banner](https://via.placeholder.com/1000x600)
 
-![JIRA Cloud logo](images/jira.png)
 
-### JIRA Cloud
 
-Make designer to developer handoffs easy. Find the latest designs and specs and get thumbnail previews and asset info.
 
-* [Learn more](https://www.atlassian.com/enterprise/cloud)
+<TitleBlock slots="heading" />
 
-<TextBlock slots="image, heading, text, links" width="33%" theme="light" isCentered />
+### Get started building with Adobe
 
-![Slack logo](images/slack.png)
 
-### Slack
 
-Instantly share Creative Cloud files, designs, specs, and notifications all in real time.
+<ProductCard slots="icon, heading, text, buttons" width="33%" />
 
-* [Learn more](https://slack.com/enterprise)
+![XD](icons/xd_appicon_64.svg)
 
-<TextBlock slots="video, icons, heading, text, buttons" theme="dark" />
+#### Adobe XD
 
-[Creative Cloud for a new era](https://www.youtube.com/watch?v=JemJbNJ4ZtU&ab_channel=AdobeCreativeCloud)
+The Adobe XD SDK enables you to build plugins that can create and manipulate content, automate design workflows, and unleash your user's creativity. 
 
-* ![Adobe](images/adobe.png)
-* ![Microsoft](images/msft.png)
+* [Learn more](https://www.adobe.io/apis/creativecloud/xd.html)
 
-### Partner Success Story
 
-Connect your users to Creative Cloud right from within your mobile or web apps with our service APIs. Give users access to 
-world-class creative assets with the Adobe Stock API, or sign up for early information on our upcoming CC Storage API.
 
-* [Learn more](https://adobe.io)
-* [Sign up for partner program](https://adobe.io)
+<ProductCard slots="icon, heading, text, buttons" width="33%" />
 
-<SummaryBlock slots="image, heading, text, buttons" background="rgb(246, 16, 27)" />
+![CC](icons/cc_appicon_64.svg)
 
-![CC banner](images/cc-banner.png)
+#### Common Extensibility Platform (CEP)
 
-## Subscribe to the Creative Cloud developers newsletter 
+Build extensions with HTML, CSS, JavaScript, and Node. Deploy across multiple Adobe apps. 
 
-A monthly newsletter featuring news for anyone who creates, develops, or build plugins, extensions, or integrations for the
-Creative Cloud family of products.
+* [Learn more](https://www.adobe.io/apis/creativecloud/cep.html)
 
-* [Subscribe to the newsletter](https://adobe.io)
-* [Learn more](https://adobe.io)
+
+
+<ProductCard slots="icon, heading, text, buttons" width="33%" />
+
+![CC](icons/cc_appicon_64.svg)
+
+#### CC Storage API 
+
+CC Storage API lets you access and modify assets stored in the Creative Cloud, the world's most popular creative platform. 
+
+* [Learn more](https://www.adobe.io/apis/creativecloud/ccstorageapi.html)
+
+
+
+<ProductCard slots="icon, heading, text, buttons" width="33%" />
+
+![ST](icons/st_appicon_64.svg)
+
+#### Adobe Stock
+
+Give your users access to the perfect Adobe Stock asset to enhance their creative projects. 
+
+* [Learn more](https://www.adobe.io/apis/creativecloud/stock.html)
+
+
+
+<ProductCard slots="icon, heading, text, buttons" width="33%" />
+
+![PS](icons/ps_appicon_64.svg)
+
+#### Adobe Photoshop
+
+Build custom extensions for unique image processing workflows, connect to web services, and more. 
+
+* [Learn more](https://www.adobe.io/apis/creativecloud/photoshop.html)
+
+
+
+<ProductCard slots="icon, heading, text, buttons" width="33%" />
+
+![LR](icons/lr_appicon_64.svg)
+
+#### Adobe Lightroom
+
+Create effects, define presets and brushes, manipulate metadata, and much more in Lightroom. 
+
+* [Learn more](https://www.adobe.io/apis/creativecloud/lightroom.html)
+
+
+
+<ProductCard slots="icon, heading, text, buttons" width="33%" />
+
+![ID](icons/id_appicon_64.svg)
+
+#### Adobe InDesign
+
+Give your InDesign users the power to streamline their editorial and publishing workflows. 
+
+* [Learn more](https://www.adobe.io/apis/creativecloud/indesign.html)
+
+
+
+<ProductCard slots="icon, heading, text, buttons" width="33%" />
+
+![AI](icons/ai_appicon_64.svg)
+
+#### Adobe Illustrator
+
+Give users enhanced power over their vector image projects with effects, automation, and more. 
+
+* [Learn more](https://www.adobe.io/apis/creativecloud/illustrator.html)
+
+
+
+<ProductCard slots="icon, heading, text, buttons" width="33%" />
+
+![PR](icons/pr_appicon_64.svg)
+
+#### Adobe Premiere Pro
+
+Automate complex tasks, communicate with external hardware, add support for new codecs, and more. 
+
+* [Learn more](https://www.adobe.io/apis/creativecloud/premierepro.html)
+
