@@ -1,4 +1,6 @@
 ---
+title: Home
+description: The most memorable digital experiences are unleashed by developer creativity. Adobe products and technologies power them. 
 GlobalHeaderTemp: true  
 ---
 
