@@ -4,7 +4,7 @@ description: The most memorable digital experiences are unleashed by developer c
 GlobalHeaderTemp: true  
 ---
 
-<Hero slots="image, heading, text, buttons" variant="fullwidth" background="rgb(51, 51, 51)" />
+<Hero slots="image, heading, text, buttons" variant="fullwidth" background="rgb(15, 55, 95)" />
 
 ![IO banner](images/F_Illu_DevEcoHomepage_1440x300_2x.png)
 
