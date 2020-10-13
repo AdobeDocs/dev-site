@@ -105,9 +105,7 @@ Platform enables organizations to centralize and standardize customer data and c
 
 
 
-<ProductCard slots="icon, heading, text, buttons" width="33%" />
-
-![Adobe Experience Platform Icon](icons/experience_platform_appicon_RGB_noshadow_64.svg)
+<ProductCard slots="heading, text, buttons" width="33%" />
 
 #### Adobe Experience Platform
 
@@ -150,9 +148,7 @@ Apply real-time analytics and detailed segmentation across all of your marketing
 
 
 
-<ProductCard slots="icon, heading, text, buttons" width="33%" />
-
-![Adobe Stock icon](icons/st_appicon_64.svg)
+<ProductCard slots="heading, text, buttons" width="33%" />
 
 #### Adobe Stock API
 
@@ -163,22 +159,18 @@ Access stunning high-quality images, graphics, and videos to use in ads, email t
 
 
 
-<ProductCard slots="icon, heading, text, buttons" width="33%" />
-
-![Adobe Photoshop icon](icons/ps_appicon_64.svg)
+<ProductCard slots="heading, text, buttons" width="33%" />
 
 #### Adobe Photoshop API
 
 Photoshop API and extensions automate time-consuming design tasks, saving you hours, so your team can get back to doing what they do best: being creative.   
 
 * [Learn more](/apis/creativecloud/photo-imaging-api)
-* [View docs](/apis/creativecloud/photo-imaging-api/api-demo)
+* [Try the demo](/apis/creativecloud/photo-imaging-api/api-demo)
 
 
 
-<ProductCard slots="icon, heading, text, buttons" width="33%" />
-
-![Adobe Sign icon](icons/adobe_sign_appicon_64.svg)
+<ProductCard slots="heading, text, buttons" width="33%" />
 
 #### Adobe Sign API
 
