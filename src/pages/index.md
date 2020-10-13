@@ -16,7 +16,7 @@ Adobe products and technologies power them
 
 
 
-<AnnouncementBlock slots="heading, text, button" />
+<AnnouncementBlock slots="heading, text, button" theme="lightest" />
 
 ### Adobe MAX, The Creativity Conference
 
@@ -26,7 +26,7 @@ Three full days of luminary speaker, celebrity appearances, musical performances
 
 
 
-<TextBlock slots="image, heading, text" width="33%" theme="light" isCentered />
+<TextBlock slots="image, heading, text" width="33%" isCentered theme="lightest" />
 
 ![Home illustration 1](images/home-illustration1.png)
 
@@ -36,7 +36,7 @@ Our mobile, cloud, and web technologies unlock building potential as boundless a
 
 
 
-<TextBlock slots="image, heading, text" width="33%" theme="light" isCentered />
+<TextBlock slots="image, heading, text" width="33%" isCentered theme="lightest" />
 
 ![Home illustration 2](images/home-illustration2.png)
 
@@ -46,7 +46,7 @@ We built our reputation on our Creative, Document, and Experience Cloud products
 
 
 
-<TextBlock slots="image, heading, text" width="33%" theme="light" isCentered />
+<TextBlock slots="image, heading, text" width="33%" isCentered />
 
 ![Home illustration 3](images/home-illustration3.png)
 
@@ -56,7 +56,9 @@ A single hub for managing projects, assigning credentials, viewing analytics, an
 
 
 
-<TextBlock slots="heading, text1, text2, buttons, image" />
+<TextBlock slots="image, heading, text1, text2, buttons" theme="light" />
+
+![cc-banner](images/F_Illu_DevEcoCCdiscovery_banner_746x500_2x.png)
 
 ### Extend the Creative Cloud experience
 
@@ -68,13 +70,9 @@ And be sure to join the [Exchange Program for Creative Cloud](https://partners.a
 
 * [Learn more](/apis/creativecloud.html)
 
-![cc-banner](images/F_Illu_DevEcoCCdiscovery_banner_746x500_2x.png)
 
 
-
-<TextBlock slots="image, heading, text, buttons" />
-
-![dc-banner](https://via.placeholder.com/1000x600)
+<TextBlock slots="heading, text, buttons, image" theme="light" />
 
 ### Build engaging document experiences
 
@@ -83,9 +81,13 @@ Manipulate PDF in document workflows with [PDF Tools API](/apis/documentcloud/dc
 
 * [Learn more](/apis/documentcloud.html)
 
+![dc-banner](https://via.placeholder.com/1000x600)
 
 
-<TextBlock slots="heading, text, buttons, image" />
+
+<TextBlock slots="image, heading, text, buttons" theme="light" />
+
+![exc-banner](images/F_Illu_DevEcoAdobeService_discovery_banner_746x500_2x.png)
 
 ### Experience Cloud's Dev feature
 
@@ -93,8 +95,6 @@ Adobe Experience Platform is the most powerful, flexible, and open system on the
 Platform enables organizations to centralize and standardize customer data and content from any system and apply data science and machine learning to dramatically improve the design and delivery of rich, personalized customer experiences. 
 
 * [Learn more](/apis/experienceplatform.html)
-
-![exc-banner](images/F_Illu_DevEcoAdobeService_discovery_banner_746x500_2x.png)
 
 
 
