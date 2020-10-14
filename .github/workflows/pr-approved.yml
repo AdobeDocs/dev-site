@@ -91,7 +91,7 @@ jobs:
             cp -a $GITHUB_WORKSPACE/public/. $GITHUB_WORKSPACE/dist/$PATH_PREFIX
           fi
         env:
-          PREFIX_PATHS: false # equivalent to --prefix-paths flag for 'gatsby build'
+          PREFIX_PATHS: true # equivalent to --prefix-paths flag for 'gatsby build'
           PATH_PREFIX: ${{ secrets.PATH_PREFIX }}
           GATSBY_LAUNCH_SRC: ${{ secrets.GATSBY_LAUNCH_SRC }}
           GATSBY_LAUNCH_SRC_INCLUDE_IN_DEVELOPMENT: ${{ secrets.GATSBY_LAUNCH_SRC_INCLUDE_IN_DEVELOPMENT }}
@@ -119,7 +119,7 @@ jobs:
               issue_number: context.issue.number,
               owner: context.repo.owner,
               repo: context.repo.repo,
-              body: '🏄🏽‍♂️ Deployed to dev'
+              body: '🏄🏽‍ Deployed to dev'
             })
 
   pre-build-production:
@@ -169,7 +169,7 @@ jobs:
             cp -a $GITHUB_WORKSPACE/public/. $GITHUB_WORKSPACE/dist/$PATH_PREFIX
           fi
         env:
-          PREFIX_PATHS: false # equivalent to --prefix-paths flag for 'gatsby build'
+          PREFIX_PATHS: true # equivalent to --prefix-paths flag for 'gatsby build'
           PATH_PREFIX: ${{ secrets.PATH_PREFIX }}
           GATSBY_LAUNCH_SRC: ${{ secrets.GATSBY_LAUNCH_SRC }}
           GATSBY_LAUNCH_SRC_INCLUDE_IN_DEVELOPMENT: ${{ secrets.GATSBY_LAUNCH_SRC_INCLUDE_IN_DEVELOPMENT }}
@@ -197,5 +197,5 @@ jobs:
               issue_number: context.issue.number,
               owner: context.repo.owner,
               repo: context.repo.repo,
-              body: '🏄🏽‍♂️ Deployed to production'
+              body: '🏄🏽‍ Deployed to production'
             })            
