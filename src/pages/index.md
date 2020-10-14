@@ -12,7 +12,7 @@ GlobalHeaderTemp: true
 
 Adobe products and technologies power them
 
-* [Explore our APIs](/apis/)
+* [Explore our APIs](https://adobedocs.github.io/dev-site-product-index/)
 
 
 
@@ -20,10 +20,9 @@ Adobe products and technologies power them
 
 ### Adobe MAX, The Creativity Conference
 
-Three full days of luminary speaker, celebrity appearances, musical performances, global collaborative art projects, and 350+ sessions - and all at no cost.
+Three full days of luminary speakers, celebrity appearances, musical performances, global collaborative art projects, and 350+ sessions - and all at no cost.
 
-[Register for MAX](https://max.adobe.com/)
-
+[Learn more](https://max.adobe.com/)
 
 
 <TextBlock slots="image, heading, text" width="33%" isCentered theme="lightest" />
