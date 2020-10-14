@@ -80,7 +80,7 @@ Manipulate PDF in document workflows with [PDF Tools API](/apis/documentcloud/dc
 
 * [Learn more](/apis/documentcloud)
 
-![dc-banner](https://via.placeholder.com/1000x600)
+![dc-banner](images/F_Illu_DevEcoDC_discovery_banner_756x500_2x.png)
 
 
 
