@@ -89,7 +89,7 @@ You can now integrate high performance APIs into any application with ease using
 
 <TextBlock slots="image, heading, text, buttons" theme="light" />
 
-![exc-banner](images/F_Illu_DevEcoAdobeService_discovery_banner_746x500_2x.png)
+![exc-banner](images/F_Illu_DevEcoFirefly_discovery_banner_746x500_2x.png)
 
 ### Build Cloud Native Adobe Apps
 
