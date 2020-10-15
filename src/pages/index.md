@@ -75,10 +75,12 @@ And be sure to join the [Exchange Program for Creative Cloud](https://partners.a
 
 ### Build engaging document experiences
 
-Modern cloud-based APIs for embedded viewing and manipulation of PDFs. Provide a rich viewing experience and enable collaboration with [PDF Embed API](/apis/documentcloud/dcsdk/pdf-embed).
-Manipulate PDF in document workflows with [PDF Tools API](/apis/documentcloud/dcsdk/pdf-tools).
+Develop modern document workflows with cloud-based APIs for embedded viewing and manipulation of PDFs. Provide a rich viewing experience and enable collaboration with Adobe PDF Embed API. Manipulate PDFs in any document workflow with Adobe PDF Tools API.
+You can now integrate high performance APIs into any application with ease using over a dozen APIs. Convert PDFs for downstream data analysis. Or enable creation and customization of PDFs for reporting, publications, or contract workflows.
 
-* [Learn more](/apis/documentcloud)
+* [Learn more](https://www.adobe.com/go/dcsdk_home)
+* [Get started](https://www.adobe.com/go/dcsdks_credentials)
+
 
 ![dc-banner](images/F_Illu_DevEcoDC_discovery_banner_756x500_2x.png)
 
@@ -118,13 +120,15 @@ Develop customer experience applications, powered by real-time customer profiles
 
 
 
-<ProductCard slots="heading, text, buttons" width="33%" />
+<ProductCard slots="icon, heading, text, buttons" width="33%" />
+
+![DC Cloud Icon](icons/dc_appicon_64.svg)
 
 #### Adobe PDF Embed API
 
-Client-side JavaScript to provide rich viewing and collaboration experience, along with Analytics.  
+With only a few lines of JavaScript, provide an industry leading PDF viewing and collaboration experience. Easily integrate discovery and engagement data into Analytics platforms.
 
-* [Learn more](/apis/documentcloud/dcsdk/viewsdk)
+* [Learn more](/apis/documentcloud/viesdk.htm)
 * [Try the demo](https://documentcloud.adobe.com/view-sdk-demo/index.html)
 
 
@@ -182,7 +186,7 @@ Photoshop API and extensions automate time-consuming design tasks, saving you ho
 
 #### Adobe Sign API
 
-Use APIs from Adobe Sign to create custom applications for your teams, partners, and customers.   
+Easily integrate e-signatures and 100% digital workflows to your organization.
 
 * [Learn more](/apis/documentcloud/sign)
 * [View docs](/apis/documentcloud/sign/docs)
@@ -206,7 +210,7 @@ Deliver targeted, effective and personalized customer experiences at lightning-f
 
 #### Adobe Creative Cloud
 
-Extend Creative Cloud desktop apps like Photoshop, Premiere Pro, and InDesign through our APIs and SDKs.   
+Adobe Creative Cloud APIs and SDKs enable developers to impact creative work for millions of users worldwide. Build and distribute inspiring, productivity-driving plugins and integrations—all with Adobe Creative Cloud.
 
 * [Learn more](/apis/creativecloud/overview)
 * [View all APIs](/apis/creativecloud)
