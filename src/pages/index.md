@@ -71,7 +71,7 @@ And be sure to join the [Exchange Program for Creative Cloud](https://partners.a
 
 
 
-<TextBlock slots="heading, text, buttons, image" theme="light" />
+<TextBlock slots="heading, text1, text2, buttons, image" theme="light" />
 
 ### Build engaging document experiences
 
@@ -91,10 +91,9 @@ You can now integrate high performance APIs into any application with ease using
 
 ![exc-banner](images/F_Illu_DevEcoAdobeService_discovery_banner_746x500_2x.png)
 
-### Experience Cloud's Dev feature
+### Build Cloud Native Adobe Apps
 
-Adobe Experience Platform is the most powerful, flexible, and open system on the market for building and managing complete solutions that drive customer experience.
-Platform enables organizations to centralize and standardize customer data and content from any system and apply data science and machine learning to dramatically improve the design and delivery of rich, personalized customer experiences. 
+Project Firefly is a complete framework to build and deploy custom web apps on Adobe I/O Runtime, our serverless platform. Leverage React Spectrum (Adobe’s UI toolkit), create microservices, fire custom events, and orchestrate APIs to create custom apps for your business users.
 
 * [Learn more](/apis/experienceplatform)
 
