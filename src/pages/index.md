@@ -12,7 +12,7 @@ GlobalHeaderTemp: true
 
 Adobe products and technologies power them
 
-* [Explore our APIs](https://adobedocs.github.io/dev-site-product-index/)
+* [Explore our APIs](/apis)
 
 
 
@@ -67,7 +67,7 @@ Be sure to check out [Common Extensibility Platform (CEP)](/apis/creativecloud/c
 When you're ready to ship, distribute your work on [Adobe Exchange](https://exchange.adobe.com/), the preferred marketplace for Adobe Creative Cloud users. 
 And be sure to join the [Exchange Program for Creative Cloud](https://partners.adobe.com/exchangeprogram/creativecloud) to unlock more benefits, including streamlined publishing and promotional opportunities.
 
-* [Learn more](/apis/creativecloud)
+* [Learn more](/creative-cloud)
 
 
 
@@ -128,7 +128,7 @@ Develop customer experience applications, powered by real-time customer profiles
 
 With only a few lines of JavaScript, provide an industry leading PDF viewing and collaboration experience. Easily integrate discovery and engagement data into Analytics platforms.
 
-* [Learn more](/apis/documentcloud/viesdk.htm)
+* [Learn more](/apis/documentcloud/viesdk)
 * [Try the demo](https://documentcloud.adobe.com/view-sdk-demo/index.html)
 
 
@@ -212,5 +212,4 @@ Deliver targeted, effective and personalized customer experiences at lightning-f
 
 Adobe Creative Cloud APIs and SDKs enable developers to impact creative work for millions of users worldwide. Build and distribute inspiring, productivity-driving plugins and integrations—all with Adobe Creative Cloud.
 
-* [Learn more](/apis/creativecloud/overview)
-* [View all APIs](/apis/creativecloud)
+* [Learn more](/creative-cloud)
