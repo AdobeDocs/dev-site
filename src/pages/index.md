@@ -1,6 +1,6 @@
 ---
 title: Home
-description: The most memorable digital experiences are unleashed by developer creativity. AAdobe products and services empower developers.
+description: The most memorable digital experiences are unleashed by developer creativity. Adobe products and services empower developers.
 GlobalHeaderTemp: true  
 ---
 
