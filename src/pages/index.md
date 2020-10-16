@@ -1,35 +1,35 @@
 ---
 title: Home
-description: The most memorable digital experiences are unleashed by developer creativity. Adobe products and technologies power them. 
+description: The most memorable digital experiences are unleashed by developer creativity. AAdobe products and services empower developers.
 GlobalHeaderTemp: true  
 ---
 
 <Hero slots="image, heading, text, buttons" variant="fullwidth" background="rgb(15, 55, 95)" />
 
-![IO banner](images/F_Illu_DevEcoHomepage_1440x300_2x.png)
+![IO banner](images/F_Illu_DevEcoHomepage_1440x500_2x.png)
 
 # The most memorable digital experiences are unleashed by developer creativity
 
-Adobe products and technologies power them
+Adobe products and services empower developers
 
 * [Explore our APIs](/apis)
 
 
 
-<AnnouncementBlock slots="heading, text, button" theme="lightest" />
+<AnnouncementBlock slots="heading, text, button" theme="light" />
 
-### Adobe MAX, The Creativity Conference
+### Join us at Adobe MAX, the Creativity Conference
 
-Three full days of luminary speakers, celebrity appearances, musical performances, global collaborative art projects, and 350+ sessions - and all at no cost.
+Three full days of educational sessions, networking opportunities, sneak peeks of technical updates and functionalities, speakers, performances, and much more — all at no cost.
 
-[Learn more](https://max.adobe.com/)
+[Register for MAX](https://max.adobe.com/)
 
 
 <TextBlock slots="image, heading, text" width="33%" isCentered theme="lightest" />
 
 ![Home illustration 1](images/home-illustration1.png)
 
-### Why build with Adobe ?
+### Why build with Adobe?
 
 Our mobile, cloud, and web technologies unlock building potential as boundless as the power of your imagination.
 
@@ -61,10 +61,10 @@ A single hub for managing projects, assigning credentials, viewing analytics, an
 
 ### Extend the Creative Cloud experience
 
-Extend Creative Cloud desktop apps like [Photoshop](https://www.adobe.com/products/photoshop.html), [Premiere Pro](https://www.adobe.com/products/premiere.html), and [InDesign](https://www.adobe.com/products/indesign.html) through our APIs and SDKs. 
+Extend Creative Cloud desktop apps like [Photoshop](https://www.adobe.com/products/photoshop.html), [Premiere Pro](https://www.adobe.com/products/premiere.html), and [InDesign](https://www.adobe.com/products/indesign.html) through our APIs and SDKs.
 Be sure to check out [Common Extensibility Platform (CEP)](/apis/creativecloud/cep), which lets you build custom UI panels for multiple CC apps at once.
 
-When you're ready to ship, distribute your work on [Adobe Exchange](https://exchange.adobe.com/), the preferred marketplace for Adobe Creative Cloud users. 
+When you're ready to ship, distribute your work on [Adobe Exchange](https://exchange.adobe.com/), the preferred marketplace for Adobe Creative Cloud users.
 And be sure to join the [Exchange Program for Creative Cloud](https://partners.adobe.com/exchangeprogram/creativecloud) to unlock more benefits, including streamlined publishing and promotional opportunities.
 
 * [Learn more](/creative-cloud)
