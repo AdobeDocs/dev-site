@@ -8,9 +8,9 @@ GlobalHeaderTemp: true
 
 ![IO banner](images/F_Illu_DevEcoHomepage_1440x500_2x.png)
 
-# Build for Creative Cloud
+# The most memorable digital experiences are unleashed by developer creativity
 
-The Creative Cloud Developer Platform is a collection of APIs and SDKs that let you extend and integrate with Creative Cloud apps and services, which are used by millions of people around the world. From automating workflows to integrating your software with Creative Cloud, our developer platform has the tools you need to power creativity.
+Adobe products and services empower developers
 
 * [Explore our APIs](/apis)
 
@@ -55,17 +55,13 @@ A single hub for managing projects, assigning credentials, viewing analytics, an
 
 
 
-<TextBlock slots="image, heading, text1, text2, buttons" theme="light" />
+<TextBlock slots="image, heading, text, buttons" theme="light" />
 
 ![cc-banner](images/F_Illu_DevEcoCCdiscovery_banner_746x500_2x.png)
 
-### Extend the Creative Cloud experience
+# Build for Creative Cloud
 
-Extend Creative Cloud desktop apps like [Photoshop](https://www.adobe.com/products/photoshop.html), [Premiere Pro](https://www.adobe.com/products/premiere.html), and [InDesign](https://www.adobe.com/products/indesign.html) through our APIs and SDKs.
-Be sure to check out [Common Extensibility Platform (CEP)](/apis/creativecloud/cep), which lets you build custom UI panels for multiple CC apps at once.
-
-When you're ready to ship, distribute your work on [Adobe Exchange](https://exchange.adobe.com/), the preferred marketplace for Adobe Creative Cloud users.
-And be sure to join the [Exchange Program for Creative Cloud](https://partners.adobe.com/exchangeprogram/creativecloud) to unlock more benefits, including streamlined publishing and promotional opportunities.
+The Creative Cloud Developer Platform is a collection of APIs and SDKs that let you extend and integrate with Creative Cloud apps and services, which are used by millions of people around the world. From automating workflows to integrating your software with Creative Cloud, our developer platform has the tools you need to power creativity.
 
 * [Learn more](/creative-cloud)
 
