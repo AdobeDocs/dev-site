@@ -8,9 +8,9 @@ GlobalHeaderTemp: true
 
 ![IO banner](images/F_Illu_DevEcoHomepage_1440x500_2x.png)
 
-# The most memorable digital experiences are unleashed by developer creativity
+# Build for Creative Cloud
 
-Adobe products and services empower developers
+The Creative Cloud Developer Platform is a collection of APIs and SDKs that let you extend and integrate with Creative Cloud apps and services, which are used by millions of people around the world. From automating workflows to integrating your software with Creative Cloud, our developer platform has the tools you need to power creativity.
 
 * [Explore our APIs](/apis)
 
