@@ -91,7 +91,7 @@ You can now integrate high performance APIs into any application with ease using
 
 Project Firefly is a complete framework to build and deploy custom web apps on Adobe I/O Runtime, our serverless platform. Leverage React Spectrum (Adobe’s UI toolkit), create microservices, fire custom events, and orchestrate APIs to create custom apps for your business users.
 
-* [Learn more](/apis/experienceplatform)
+* [Learn more](/apis/experienceplatform/project-firefly.html)
 
 
 
