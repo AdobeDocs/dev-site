@@ -125,7 +125,7 @@ Develop customer experience applications, powered by real-time customer profiles
 With only a few lines of JavaScript, provide an industry leading PDF viewing and collaboration experience. Easily integrate discovery and engagement data into Analytics platforms.
 
 * [Learn more](/apis/documentcloud/viesdk)
-* [Try the demo](https://documentcloud.adobe.com/view-sdk-demo/index.html)
+* [Try the demo](https://www.adobe.com/go/pdfEmbedAPI_demo)
 
 
 
