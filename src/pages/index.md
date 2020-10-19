@@ -22,7 +22,7 @@ Adobe products and services empower developers
 
 Three full days of educational sessions, networking opportunities, sneak peeks of technical updates and functionalities, speakers, performances, and much more — all at no cost.
 
-[Register for MAX](https://max.adobe.com/)
+[Learn more](https://max.adobe.com/)
 
 
 <TextBlock slots="image, heading, text" width="33%" isCentered theme="lightest" />
