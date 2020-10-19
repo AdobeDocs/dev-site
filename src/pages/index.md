@@ -111,7 +111,6 @@ Project Firefly is a complete framework to build and deploy custom web apps on A
 
 Develop customer experience applications, powered by real-time customer profiles.  
 
-* [Sign up for updates](https://adobeiosolutionsdemo-mkt-prod1-m.adobe-campaign.com/lp/LP6)
 * [Discover](/apis/experienceplatform/home)
 
 
