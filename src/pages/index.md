@@ -6,7 +6,7 @@ GlobalHeaderTemp: true
 
 <Hero slots="image, heading, text, buttons" variant="fullwidth" background="rgb(15, 55, 95)" />
 
-![IO banner](images/F_Illu_DevEcoHomepage_1440x500_2x.png)
+![IO banner](../images/F_Illu_DevEcoHomepage_1440x500_2x.png)
 
 # The most memorable digital experiences are unleashed by developer creativity
 
@@ -18,7 +18,7 @@ Adobe products and services empower developers
 
 <TextBlock slots="image, heading, text" width="33%" isCentered theme="lightest" />
 
-![Home illustration 1](images/home-illustration1.png)
+![Home illustration 1](../images/home-illustration1.png)
 
 ### Why build with Adobe?
 
@@ -28,7 +28,7 @@ Our mobile, cloud, and web technologies unlock building potential as boundless a
 
 <TextBlock slots="image, heading, text" width="33%" isCentered theme="lightest" />
 
-![Home illustration 2](images/home-illustration2.png)
+![Home illustration 2](../images/home-illustration2.png)
 
 ### Integrate with APIs
 
@@ -38,7 +38,7 @@ We built our reputation on our Creative, Document, and Experience Cloud products
 
 <TextBlock slots="image, heading, text" width="33%" isCentered />
 
-![Home illustration 3](images/home-illustration3.png)
+![Home illustration 3](../images/home-illustration3.png)
 
 ### Developer Console
 
@@ -48,7 +48,7 @@ A single hub for managing projects, assigning credentials, viewing analytics, an
 
 <TextBlock slots="image, heading, text, buttons" theme="light" />
 
-![cc-banner](images/F_Illu_DevEcoCCdiscovery_banner_746x500_2x.png)
+![cc-banner](../images/F_Illu_DevEcoCCdiscovery_banner_746x500_2x.png)
 
 # Build for Creative Cloud
 
@@ -70,13 +70,13 @@ You can now integrate high performance APIs into any application with ease using
 * [Get started](https://www.adobe.com/go/dcsdks_credentials)
 
 
-![dc-banner](images/F_Illu_DevEcoDC_discovery_banner_756x500_2x.png)
+![dc-banner](../images/F_Illu_DevEcoDC_discovery_banner_756x500_2x.png)
 
 
 
 <TextBlock slots="image, heading, text, buttons" theme="light" />
 
-![exc-banner](images/F_Illu_DevEcoFirefly_discovery_banner_746x500_2x.png)
+![exc-banner](../images/F_Illu_DevEcoFirefly_discovery_banner_746x500_2x.png)
 
 ### Build Cloud Native Adobe Apps
 
@@ -96,7 +96,7 @@ Project Firefly is a complete framework to build and deploy custom web apps on A
 
 <ProductCard slots="icon, heading, text, buttons" width="33%" />
 
-![Adobe Experience Platform Icon](icons/experience_platform_appicon_RGB_noshadow_64.svg)
+![Adobe Experience Platform Icon](https://stage.adobe.io/shared/icons/experience_platform_appicon_RGB_noshadow_64.svg)
 
 #### Adobe Experience Platform
 
@@ -108,7 +108,7 @@ Develop customer experience applications, powered by real-time customer profiles
 
 <ProductCard slots="icon, heading, text, buttons" width="33%" />
 
-![DC Cloud Icon](icons/dc_appicon_64.svg)
+![DC Cloud Icon](https://stage.adobe.io/shared/icons/dc_appicon_64.svg)
 
 #### Adobe PDF Embed API
 
@@ -142,7 +142,7 @@ Apply real-time analytics and detailed segmentation across all of your marketing
 
 <ProductCard slots="icon, heading, text, buttons" width="33%" />
 
-![Adobe Stock icon](icons/st_appicon_64.svg)
+![Adobe Stock icon](https://stage.adobe.io/shared/icons/st_appicon_64.svg)
 
 #### Adobe Stock API
 
@@ -155,7 +155,7 @@ Access stunning high-quality images, graphics, and videos to use in ads, email t
 
 <ProductCard slots="icon, heading, text, buttons" width="33%" />
 
-![Adobe Photoshop icon](icons/ps_appicon_64.svg)
+![Adobe Photoshop icon](https://stage.adobe.io/shared/icons/ps_appicon_64.svg)
 
 #### Adobe Photoshop API
 
@@ -168,7 +168,7 @@ Photoshop API and extensions automate time-consuming design tasks, saving you ho
 
 <ProductCard slots="icon, heading, text, buttons" width="33%" />
 
-![Adobe Sign icon](icons/adobe_sign_appicon_64.svg)
+![Adobe Sign icon](https://stage.adobe.io/shared/icons/adobe_sign_appicon_64.svg)
 
 #### Adobe Sign API
 
@@ -192,7 +192,7 @@ Deliver targeted, effective and personalized customer experiences at lightning-f
 
 <ProductCard slots="icon, heading, text, buttons" width="33%" />
 
-![Adobe Creative Cloud icon](icons/cc_appicon_64.svg)
+![Adobe Creative Cloud icon](https://stage.adobe.io/shared/icons/cc_appicon_64.svg)
 
 #### Adobe Creative Cloud
 
