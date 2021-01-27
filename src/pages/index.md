@@ -16,15 +16,6 @@ Adobe products and services empower developers
 
 
 
-<AnnouncementBlock slots="heading, text, button" theme="light" />
-
-### Join us at Adobe MAX, the Creativity Conference
-
-Three full days of educational sessions, networking opportunities, sneak peeks of technical updates and functionalities, speakers, performances, and much more — all at no cost.
-
-[Learn more](https://max.adobe.com/)
-
-
 <TextBlock slots="image, heading, text" width="33%" isCentered theme="lightest" />
 
 ![Home illustration 1](images/home-illustration1.png)
