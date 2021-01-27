@@ -2,6 +2,6 @@
 layout: none  
 ---
 
-import Footer from '../../../../components/Footer.js'
+import Footer from './_Footer'
 
 <Footer />
