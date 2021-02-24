@@ -96,7 +96,7 @@ Project Firefly is a complete framework to build and deploy custom web apps on A
 
 <ProductCard slots="icon, heading, text, buttons" width="33%" />
 
-![Adobe Experience Platform Icon](https://stage.adobe.io/shared/icons/experience_platform_appicon_RGB_noshadow_64.svg)
+![Adobe Experience Platform Icon](https://adobe.io/shared/icons/experience_platform_appicon_RGB_noshadow_64.svg)
 
 #### Adobe Experience Platform
 
@@ -108,7 +108,7 @@ Develop customer experience applications, powered by real-time customer profiles
 
 <ProductCard slots="icon, heading, text, buttons" width="33%" />
 
-![DC Cloud Icon](https://stage.adobe.io/shared/icons/dc_appicon_64.svg)
+![DC Cloud Icon](https://adobe.io/shared/icons/dc_appicon_64.svg)
 
 #### Adobe PDF Embed API
 
@@ -142,7 +142,7 @@ Apply real-time analytics and detailed segmentation across all of your marketing
 
 <ProductCard slots="icon, heading, text, buttons" width="33%" />
 
-![Adobe Stock icon](https://stage.adobe.io/shared/icons/st_appicon_64.svg)
+![Adobe Stock icon](https://adobe.io/shared/icons/st_appicon_64.svg)
 
 #### Adobe Stock API
 
@@ -155,7 +155,7 @@ Access stunning high-quality images, graphics, and videos to use in ads, email t
 
 <ProductCard slots="icon, heading, text, buttons" width="33%" />
 
-![Adobe Photoshop icon](https://stage.adobe.io/shared/icons/ps_appicon_64.svg)
+![Adobe Photoshop icon](https://adobe.io/shared/icons/ps_appicon_64.svg)
 
 #### Adobe Photoshop API
 
@@ -168,7 +168,7 @@ Photoshop API and extensions automate time-consuming design tasks, saving you ho
 
 <ProductCard slots="icon, heading, text, buttons" width="33%" />
 
-![Adobe Sign icon](https://stage.adobe.io/shared/icons/adobe_sign_appicon_64.svg)
+![Adobe Sign icon](https://adobe.io/shared/icons/adobe_sign_appicon_64.svg)
 
 #### Adobe Sign API
 
@@ -192,7 +192,7 @@ Deliver targeted, effective and personalized customer experiences at lightning-f
 
 <ProductCard slots="icon, heading, text, buttons" width="33%" />
 
-![Adobe Creative Cloud icon](https://stage.adobe.io/shared/icons/cc_appicon_64.svg)
+![Adobe Creative Cloud icon](https://adobe.io/shared/icons/cc_appicon_64.svg)
 
 #### Adobe Creative Cloud
 
