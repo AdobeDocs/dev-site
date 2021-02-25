@@ -14,7 +14,15 @@ Adobe products and services empower developers
 
 * [Explore our APIs](/apis)
 
+<TextBlock slots="image, heading, text1, buttons" theme="light" />
 
+![Adobe Stock image of collaborators](../images/devlive-smaller.png)
+
+### Watch Adobe Developers Live on demand
+
+Adobe Developers Live: Content features important Adobe Experience Manager developer updates, technical sessions, and panel talks. Learn about Headless and GraphQL, Adobe Experience Manager as a Cloud Service, and more.
+
+* [Watch sessions](https://experienceleague.adobe.com/docs/adobe-developers-live-events/events/content/feb2021/overview.html?lang=en#content)
 
 <TextBlock slots="image, heading, text" width="33%" isCentered theme="lightest" />
 
