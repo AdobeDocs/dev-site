@@ -14,8 +14,6 @@ Adobe products and services empower developers
 
 * [Explore our APIs](/apis)
 
-
-
 <TextBlock slots="image, heading, text" width="33%" isCentered theme="lightest" />
 
 ![Home illustration 1](../images/home-illustration1.png)
@@ -44,6 +42,16 @@ We built our reputation on our Creative, Document, and Experience Cloud products
 
 A single hub for managing projects, assigning credentials, viewing analytics, and accessing APIs.
 
+
+<TextBlock slots="heading, text, buttons, image" theme="light" />
+
+### Watch Adobe Developers Live on demand
+
+**Adobe Developers Live: Content** features important Adobe Experience Manager developer updates, technical sessions, and panel talks. Learn about Headless and GraphQL, Adobe Experience Manager as a Cloud Service, and more.
+
+* [Watch sessions](https://experienceleague.adobe.com/docs/adobe-developers-live-events/events/content/feb2021/overview.html?lang=en#content)
+
+![dev-live-banner](../images/devlive-smaller.png)
 
 
 <TextBlock slots="image, heading, text, buttons" theme="light" />
@@ -83,9 +91,6 @@ You can now integrate high performance APIs into any application with ease using
 Project Firefly is a complete framework to build and deploy custom web apps on Adobe I/O Runtime, our serverless platform. Leverage React Spectrum (Adobe’s UI toolkit), create microservices, fire custom events, and orchestrate APIs to create custom apps for your business users.
 
 * [Learn more](/apis/experienceplatform/project-firefly.html)
-
-
-
 
 <TitleBlock slots="heading" />
 
