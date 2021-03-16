@@ -7,7 +7,7 @@ import {clouds, products} from '../../products'
 
 <Hero slots="image, heading, text" variant="fullwidth" background="rgb(45, 131, 232)" />
 
-![IO banner](../../images/F_Illu_DevEcoProductIndexPage_1440x300_2x.png)
+![IO banner](../images/F_Illu_DevEcoProductIndexPage_1440x300_2x.png)
 
 # Start building today
 
