@@ -10,7 +10,7 @@
  * governing permissions and limitations under the License.
  */
 
-const merge = require('webpack-merge');
+const { merge } = require('webpack-merge');
 const { NODE_ENV } = process.env;
 
 if (NODE_ENV === 'production') {

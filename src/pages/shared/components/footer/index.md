@@ -2,6 +2,6 @@
 layout: none  
 ---
 
-import Footer from './_Footer'
+import {Footer} from '@adobe/gatsby-theme-aio/src/components/Footer';
 
 <Footer />

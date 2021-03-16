@@ -6,7 +6,7 @@ GlobalHeaderTemp: true
 
 <Hero slots="image, heading, text, buttons" variant="fullwidth" background="rgb(15, 55, 95)" />
 
-![IO banner](../images/F_Illu_DevEcoHomepage_1440x500_2x.png)
+![IO banner](./images/F_Illu_DevEcoHomepage_1440x500_2x.png)
 
 # The most memorable digital experiences are unleashed by developer creativity
 
@@ -16,7 +16,7 @@ Adobe products and services empower developers
 
 <TextBlock slots="image, heading, text" width="33%" isCentered theme="lightest" />
 
-![Home illustration 1](../images/home-illustration1.png)
+![Home illustration 1](./images/home-illustration1.png)
 
 ### Why build with Adobe?
 
@@ -26,7 +26,7 @@ Our mobile, cloud, and web technologies unlock building potential as boundless a
 
 <TextBlock slots="image, heading, text" width="33%" isCentered theme="lightest" />
 
-![Home illustration 2](../images/home-illustration2.png)
+![Home illustration 2](./images/home-illustration2.png)
 
 ### Integrate with APIs
 
@@ -36,7 +36,7 @@ We built our reputation on our Creative, Document, and Experience Cloud products
 
 <TextBlock slots="image, heading, text" width="33%" isCentered />
 
-![Home illustration 3](../images/home-illustration3.png)
+![Home illustration 3](./images/home-illustration3.png)
 
 ### Developer Console
 
@@ -51,12 +51,12 @@ A single hub for managing projects, assigning credentials, viewing analytics, an
 
 * [Watch sessions](https://experienceleague.adobe.com/docs/adobe-developers-live-events/events/content/feb2021/overview.html?lang=en#content)
 
-![dev-live-banner](../images/devlive-smaller.png)
+![dev-live-banner](./images/devlive-smaller.png)
 
 
 <TextBlock slots="image, heading, text, buttons" theme="light" />
 
-![cc-banner](../images/F_Illu_DevEcoCCdiscovery_banner_746x500_2x.png)
+![cc-banner](./images/F_Illu_DevEcoCCdiscovery_banner_746x500_2x.png)
 
 # Build for Creative Cloud
 
@@ -78,13 +78,13 @@ You can now integrate high performance APIs into any application with ease using
 * [Get started](https://www.adobe.com/go/dcsdks_credentials)
 
 
-![dc-banner](../images/F_Illu_DevEcoDC_discovery_banner_756x500_2x.png)
+![dc-banner](./images/F_Illu_DevEcoDC_discovery_banner_756x500_2x.png)
 
 
 
 <TextBlock slots="image, heading, text, buttons" theme="light" />
 
-![exc-banner](../images/F_Illu_DevEcoFirefly_discovery_banner_746x500_2x.png)
+![exc-banner](./images/F_Illu_DevEcoFirefly_discovery_banner_746x500_2x.png)
 
 ### Build Cloud Native Adobe Apps
 
