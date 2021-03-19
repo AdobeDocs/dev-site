@@ -16,7 +16,7 @@ Adobe products and services empower developers
 
 <AnnouncementBlock slots="heading, text, button" />
 
-### Adobe Summit, The Digital Experience Conference
+### Adobe Summit—The Digital Experience Conference
 
 Join a diverse community of developers focused on creating incredible end-to-end experiences to learn the latest technology advances and developer tools.
 
