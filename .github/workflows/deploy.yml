@@ -21,6 +21,12 @@ jobs:
           exit 1
         env:
           PATH_PREFIX: ${{ secrets.PATH_PREFIX }}
+     - name: echo PATH_PREFIX
+       uses: actions/github-script@v3
+       with:
+         script: console.log(process.env.PATH_PREFIX)
+       env:
+         PATH_PREFIX: ${{ secrets.PATH_PREFIX }}
 
   echo-state:
     needs: [set-state]
