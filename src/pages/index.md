@@ -20,7 +20,7 @@ Adobe products and services empower developers
 
 Join a diverse community of developers focused on creating incredible end-to-end experiences to learn the latest technology advances and developer tools.
 
-[Register for free](https://www.adobe.com/go/summit21adobe.io_phase1) 
+[Watch now](https://www.adobe.com/go/summit21adobe.io_phase1) 
 
 <TextBlock slots="image, heading, text" width="33%" isCentered theme="lightest" />
 
