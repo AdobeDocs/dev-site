@@ -78,7 +78,7 @@ The Creative Cloud Developer Platform is a collection of APIs and SDKs that let 
 
 ### Build engaging document experiences
 
-Develop modern document workflows with cloud-based APIs for embedded viewing and manipulation of PDFs. Provide a rich viewing experience and enable collaboration with Adobe PDF Embed API. Manipulate PDFs in any document workflow with Adobe PDF Services API.
+Develop modern document workflows with cloud-based APIs for embedded viewing and manipulation of PDFs. Provide a rich viewing experience and enable collaboration with Adobe PDF Embed API. Manipulate PDFs in any document workflow with Adobe PDF Tools API.
 
 You can now integrate high performance APIs into any application with ease using over a dozen APIs. Convert PDFs for downstream data analysis. Or enable creation and customization of PDFs for reporting, publications, or contract workflows.
 
