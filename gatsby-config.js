@@ -12,10 +12,42 @@
 
 module.exports = {
   siteMetadata: {
+    home: {
+      hidden: true
+    },
     pages: [
       {
         title: 'Home',
         path: '/'
+      },
+      {
+        title: 'Products',
+        path: '/apis'
+      },
+      {
+        title: 'Community',
+        menu: [
+          {
+            title: 'Tech Blog',
+            path: 'https://medium.com/adobetech'
+          },
+          {
+            title: 'Open Source at Adobe',
+            path: '/open'
+          },
+          {
+            title: 'Adobe on GitHub',
+            path: 'https://github.com/adobe'
+          },
+          {
+            title: 'Adobe Developer Support',
+            path: '/support'
+          },
+          {
+            title: 'Community Forums',
+            path: 'https://adobe.com/communities/index.html'
+          }
+        ]
       }
     ]
   },
