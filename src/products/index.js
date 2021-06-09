@@ -229,7 +229,7 @@ const products = [
   },
   {
     id: 20,
-    name: 'Adobe PDF Tools API',
+    name: 'Adobe PDF Services API',
     description:
       'An easy-to-use cloud-based API that can automate creation, manipulation and transformation of PDF documents.',
     icon: 'https://adobe.io/shared/icons/dc_appicon_64.svg',
