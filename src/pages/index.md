@@ -14,14 +14,6 @@ Adobe products and services empower developers
 
 * [Explore our APIs](/apis)
 
-<AnnouncementBlock slots="heading, text, button" />
-
-### Adobe Summit—The Digital Experience Conference
-
-Join a diverse community of developers focused on creating incredible end-to-end experiences to learn the latest technology advances and developer tools.
-
-[Watch now](https://www.adobe.com/go/summit21adobe.io_phase1) 
-
 <TextBlock slots="image, heading, text" width="33%" isCentered theme="lightest" />
 
 ![Home illustration 1](./images/home-illustration1.png)
@@ -53,13 +45,15 @@ A single hub for managing projects, assigning credentials, viewing analytics, an
 
 <TextBlock slots="heading, text, buttons, image" theme="light" />
 
-### Watch Adobe Developers Live on demand
+### Join Us for Creative Cloud Digital Partner Days Live
 
-**Adobe Developers Live: Content** features important Adobe Experience Manager developer updates, technical sessions, and panel talks. Learn about Headless and GraphQL, Adobe Experience Manager as a Cloud Service, and more.
+On July 20th and 21st join us for updates and roadmaps for developers, partners and enterprises building plugins, integrations or workflows using Creative Cloud apps and services. On July 22^nd^ we're offering an additional day of developer workshops to attendees.
 
-* [Watch sessions](https://experienceleague.adobe.com/docs/adobe-developers-live-events/events/content/feb2021/overview.html?lang=en#content)
+Listen to inspiring keynotes from Scott Belsky and Govind Balakrishnan, learn from Adobe product and engineering managers, get tips for branding and distribution, discuss your feedback in breakouts, or just chill out with likeminded people at our roundtable.
 
-![dev-live-banner](./images/devlive-smaller.png)
+* [Get your free ticket today](https://hopin.com/events/creative-cloud-digital-partner-days)
+
+![cc-partner-day](./images/Creative_Cloud_Digital_Partner_Days_AdobeStock.jpg)
 
 
 <TextBlock slots="image, heading, text, buttons" theme="light" />
