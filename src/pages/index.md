@@ -43,7 +43,7 @@ We built our reputation on our Creative, Document, and Experience Cloud products
 A single hub for managing projects, assigning credentials, viewing analytics, and accessing APIs.
 
 
-<TextBlock slots="heading, text, buttons, image" theme="light" />
+<TextBlock slots="heading, text, text, buttons, image" theme="light" />
 
 ### Join Us for Creative Cloud Digital Partner Days Live
 
