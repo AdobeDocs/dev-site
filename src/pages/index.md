@@ -43,18 +43,6 @@ We built our reputation on our Creative, Document, and Experience Cloud products
 A single hub for managing projects, assigning credentials, viewing analytics, and accessing APIs.
 
 
-<TextBlock slots="heading, text, text, buttons, image" theme="light" />
-
-### Join Us for Creative Cloud Digital Partner Days Live
-
-On July 20th and 21st join us for updates and roadmaps for developers, partners and enterprises building plugins, integrations or workflows using Creative Cloud apps and services. On July 22^nd^ we're offering an additional day of developer workshops to attendees.
-
-Listen to inspiring keynotes from Scott Belsky and Govind Balakrishnan, learn from Adobe product and engineering managers, get tips for branding and distribution, discuss your feedback in breakouts, or just chill out with likeminded people at our roundtable.
-
-* [Get your free ticket today](https://hopin.com/events/creative-cloud-digital-partner-days)
-
-![cc-partner-day](./images/Creative_Cloud_Digital_Partner_Days_AdobeStock.jpg)
-
 
 <TextBlock slots="image, heading, text, buttons" theme="light" />
 
