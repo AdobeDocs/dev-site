@@ -1,4 +1,4 @@
-[
+window.AIO_ALGOLIA_INDEX_ALL = [
   "creative-cloud",
   "photoshop",
   "xd",
@@ -19,4 +19,4 @@
   "camera-raw",
   "customer-journey-analytics",
   "xmp"
-]
+];
