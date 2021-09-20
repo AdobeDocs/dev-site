@@ -55,7 +55,7 @@ const products = [
     name: 'Stock',
     description: 'Give your users access to the perfect Adobe Stock asset to enhance their creative projects.',
     icon: 'https://adobe.io/shared/icons/st_appicon_64.svg',
-    discover: '/apis/creativecloud/stock',
+    discover: '/stock',
     docs: false,
     lastUpdated: '2002',
     cloud: clouds[0]
@@ -76,7 +76,7 @@ const products = [
     name: 'Lightroom Services',
     description: 'Streamline photography workflows for customers with content in Lightroom, through RESTful APIs.',
     icon: 'https://adobe.io/shared/icons/lr_appicon_64.svg',
-    discover: '/apis/creativecloud/lightroom',
+    discover: '/lightroom',
     docs: false,
     lastUpdated: '1999',
     cloud: clouds[0]
@@ -86,7 +86,7 @@ const products = [
     name: 'InDesign',
     description: 'Give your InDesign users the power to streamline their editorial and publishing workflows.',
     icon: 'https://adobe.io/shared/icons/id_appicon_64.svg',
-    discover: '/apis/creativecloud/indesign',
+    discover: '/indesign',
     docs: false,
     lastUpdated: '1997',
     cloud: clouds[0]
@@ -96,7 +96,7 @@ const products = [
     name: 'Illustrator',
     description: 'Give users enhanced power over their vector image projects with effects, automation, and more.',
     icon: 'https://adobe.io/shared/icons/ai_appicon_64.svg',
-    discover: '/apis/creativecloud/illustrator',
+    discover: '/illustrator',
     docs: false,
     lastUpdated: '1994',
     cloud: clouds[0]
@@ -107,7 +107,7 @@ const products = [
     description:
       'Automate complex tasks, communicate with external hardware, add support for new codecs, and more.',
     icon: 'https://adobe.io/shared/icons/pr_appicon_64.svg',
-    discover: '/apis/creativecloud/premierepro',
+    discover: '/premierepro',
     docs: false,
     lastUpdated: '1992',
     cloud: clouds[0]
@@ -118,7 +118,7 @@ const products = [
     description:
       'Create stunning visual effects, manipulate project elements, and automate complex tasks in After Effects.',
     icon: 'https://adobe.io/shared/icons/ae_appicon_64.svg',
-    discover: '/apis/creativecloud/aftereffects',
+    discover: '/aftereffects',
     docs: false,
     lastUpdated: '1990',
     cloud: clouds[0]
@@ -129,7 +129,7 @@ const products = [
     description:
       'Automate complex file conversion processes, manipulate metadata in bulk, create custom workspaces and interfaces, and more.',
     icon: 'https://adobe.io/shared/icons/br_appicon_64.svg',
-    discover: '/apis/creativecloud/bridge',
+    discover: '/bridge',
     docs: false,
     lastUpdated: '1987',
     cloud: clouds[0]
@@ -139,7 +139,7 @@ const products = [
     name: 'Animate',
     description: 'Build Animate extensions that provide custom tools for creatives, automate workflows, and more.',
     icon: 'https://adobe.io/shared/icons/an_appicon_64.svg',
-    discover: '/apis/creativecloud/animate',
+    discover: '/animate',
     docs: false,
     lastUpdated: '1986',
     cloud: clouds[0]
@@ -149,7 +149,7 @@ const products = [
     name: 'Audition',
     description: 'Tune Adobe Audition to your specs by automating tasks, connecting to web services, and more.',
     icon: 'https://adobe.io/shared/icons/au_appicon_64.svg',
-    discover: '/apis/creativecloud/audition',
+    discover: '/audition',
     docs: false,
     lastUpdated: '1985',
     cloud: clouds[0]
@@ -159,7 +159,7 @@ const products = [
     name: 'Dreamweaver',
     description: 'Add powerful features for building web apps. Automate your cross-application workflows.',
     icon: 'https://adobe.io/shared/icons/dw_appicon_64.svg',
-    discover: '/apis/creativecloud/dreamweaver',
+    discover: '/dreamweaver',
     docs: false,
     lastUpdated: '1984',
     cloud: clouds[0]
@@ -181,7 +181,7 @@ const products = [
     description:
       'Adobe Camera Raw SDKs allows you to create DNG images, and distribute Presets and Profiles for use inside of ACR, Lightroom Classic, and Lightroom CC.',
     icon: 'https://adobe.io/shared/icons/camraw_SVG_256.svg',
-    discover: '/apis/creativecloud/camera-raw',
+    discover: '/camera-raw',
     docs: false,
     lastUpdated: '1982',
     cloud: clouds[0]
@@ -371,8 +371,8 @@ const products = [
     description:
       'Project Firefly is a complete framework for building custom cloud native Adobe apps that extend Adobe solutions and run on our infrastructure.',
     icon: false,
-    discover: '/apis/experienceplatform/project-firefly',
-    docs: '/apis/experienceplatform/project-firefly/docs',
+    discover: '/project-firefly',
+    docs: '/project-firefly/docs/overview/',
     lastUpdated: '2008',
     cloud: clouds[3]
   },
