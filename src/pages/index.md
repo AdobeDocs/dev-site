@@ -18,7 +18,7 @@ Adobe products and services empower developers
 
 ### Join us at Developers Live Oct 4-5. Registration is free and open now. 
 
-Adobe Developers Live: Content features important Adobe Experience Manager developer updates, technical sessions, and panel talks. 
+Adobe Developers Live is a two-day conference that brings together developers across Adobe Experience Cloud, Document Cloud and Creative Cloud.
 
 [Register today](https://developerevents.adobe.com/developer-experience/)
 
