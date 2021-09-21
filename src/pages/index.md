@@ -14,6 +14,14 @@ Adobe products and services empower developers
 
 * [Explore our APIs](/apis)
 
+<AnnouncementBlock slots="heading, text, button" />
+
+### Join us at Developers Live Oct 4-5. Registration is free and open now. 
+
+Adobe Developers Live: Content features important Adobe Experience Manager developer updates, technical sessions, and panel talks. 
+
+[Register today](https://developerevents.adobe.com/developer-experience/)
+
 <TextBlock slots="image, heading, text" width="33%" isCentered theme="lightest" />
 
 ![Home illustration 1](./images/home-illustration1.png)
