@@ -151,7 +151,7 @@ Apply real-time analytics and detailed segmentation across all of your marketing
 
 Access stunning high-quality images, graphics, and videos to use in ads, email templates, and websites.   
 
-* [Learn more](/apis/creativecloud/stock)
+* [Learn more](/stock)
 * [View docs](/apis/creativecloud/stock/docs)
 
 
@@ -164,8 +164,8 @@ Access stunning high-quality images, graphics, and videos to use in ads, email t
 
 Photoshop API and extensions automate time-consuming design tasks, saving you hours, so your team can get back to doing what they do best: being creative.   
 
-* [Learn more](/apis/creativecloud/photo-imaging-api)
-* [Try the demo](/apis/creativecloud/photo-imaging-api/api-demo)
+* [Learn more](/photoshop/api/)
+* [Try the demo](/photoshop/api/demo/)
 
 
 
