@@ -54,13 +54,13 @@ A single hub for managing projects, assigning credentials, viewing analytics, an
 
 <TextBlock slots="image, heading, text, buttons" theme="light" />
 
-![cc-banner](./images/F_Illu_DevEcoCCdiscovery_banner_746x500_2x.png)
+![exc-banner](./images/F_Illu_DevEcoFirefly_discovery_banner_746x500_2x.png)
 
-# Build for Creative Cloud
+# Extend Adobe Solutions
 
-The Creative Cloud Developer Platform is a collection of APIs and SDKs that let you extend and integrate with Creative Cloud apps and services, which are used by millions of people around the world. From automating workflows to integrating your software with Creative Cloud, our developer platform has the tools you need to power creativity.
+App Builder is a cohesive set of tools and services that enable developers to extend and integrate Adobe solutions, starting with Adobe Experience Manager, all in one package.​ With a complete extensibility framework, built on Adobe's infrastructure, App Builder enables developers to extend and integrate Adobe solutions with ease.
 
-* [Learn more](/creative-cloud)
+* [Learn more](https://www.adobe.io/app-builder/)
 
 
 
@@ -82,15 +82,15 @@ You can now integrate high performance APIs into any application with ease using
 
 <TextBlock slots="image, heading, text, buttons" theme="light" />
 
-![exc-banner](./images/F_Illu_DevEcoFirefly_discovery_banner_746x500_2x.png)
+![cc-banner](./images/F_Illu_DevEcoCCdiscovery_banner_746x500_2x.png)
 
-### Build Cloud Native Adobe Apps
+### Build for Creative Cloud
 
-Project Firefly is a complete framework to build and deploy custom web apps on Adobe I/O Runtime, our serverless platform. Leverage React Spectrum (Adobe’s UI toolkit), create microservices, fire custom events, and orchestrate APIs to create custom apps for your business users.
+The Creative Cloud Developer Platform is a collection of APIs and SDKs that let you extend and integrate with Creative Cloud apps and services, which are used by millions of people around the world. From automating workflows to integrating your software with Creative Cloud, our developer platform has the tools you need to power creativity.
 
-* [Learn more](/apis/experienceplatform/project-firefly.html)
+* [Learn more](https://www.adobe.io/creative-cloud/)
 
-<TitleBlock slots="heading" />
+<TitleBlock slots="heading" /> 
 
 ### Get started building with Adobe
 
