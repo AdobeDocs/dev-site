@@ -60,7 +60,7 @@ A single hub for managing projects, assigning credentials, viewing analytics, an
 
 App Builder is a cohesive set of tools and services that enable developers to extend and integrate Adobe solutions, starting with Adobe Experience Manager, all in one package.​ With a complete extensibility framework, built on Adobe's infrastructure, App Builder enables developers to extend and integrate Adobe solutions with ease.
 
-* [Learn more](https://www.adobe.io/app-builder/)
+* [Learn more](/app-builder/)
 
 
 
@@ -88,7 +88,7 @@ You can now integrate high performance APIs into any application with ease using
 
 The Creative Cloud Developer Platform is a collection of APIs and SDKs that let you extend and integrate with Creative Cloud apps and services, which are used by millions of people around the world. From automating workflows to integrating your software with Creative Cloud, our developer platform has the tools you need to power creativity.
 
-* [Learn more](https://www.adobe.io/creative-cloud/)
+* [Learn more](/creative-cloud/)
 
 <TitleBlock slots="heading" /> 
 
