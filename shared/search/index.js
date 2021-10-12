@@ -3,7 +3,7 @@ window.AIO_ALGOLIA_INDEX_ALL = [
   "photoshop",
   "xd",
   "adobeio",
-  "project-firefly",
+  "app-builder",
   "stock",
   "lightroom",
   "lightroom-classic",
