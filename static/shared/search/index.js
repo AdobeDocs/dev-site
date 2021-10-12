@@ -18,5 +18,7 @@ window.AIO_ALGOLIA_INDEX_ALL = [
   "adobe-fonts",
   "camera-raw",
   "customer-journey-analytics",
-  "xmp"
+  "xmp",
+  "cloud-manager",
+  "adobe-experience-platform"
 ];
