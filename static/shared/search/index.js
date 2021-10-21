@@ -20,5 +20,5 @@ window.AIO_ALGOLIA_INDEX_ALL = [
   "customer-journey-analytics",
   "xmp",
   "cloud-manager",
-  "adobe-experience-platform"
+  "experience-platform-apis"
 ];
