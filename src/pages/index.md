@@ -98,7 +98,7 @@ The Creative Cloud Developer Platform is a collection of APIs and SDKs that let 
 
 Develop customer experience applications, powered by real-time customer profiles.  
 
-* [Discover](/apis/experienceplatform/home)
+* [Discover](/experience-platform-apis/)
 
 
 
@@ -181,8 +181,8 @@ Easily integrate e-signatures and 100% digital workflows to your organization.
 
 Deliver targeted, effective and personalized customer experiences at lightning-fast speed.   
 
-* [Learn more](/apis/experienceplatform/events)
-* [View docs](/apis/experienceplatform/events/docs)
+* [Learn more](/events)
+* [View docs](/events/docs)
 
 
 
