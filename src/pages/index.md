@@ -121,7 +121,7 @@ With only a few lines of JavaScript, provide an industry leading PDF viewing and
 
 Customize your Adobe workflow, deploy your code in the cloud, all with no server required  
 
-* [Learn more](/apis/experienceplatform/runtime)
+* [Learn more](/runtime)
 
 
 
