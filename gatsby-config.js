@@ -41,7 +41,7 @@ module.exports = {
           },
           {
             title: 'Adobe Developer Support',
-            path: '/support'
+            path: '/developer-support'
           },
           {
             title: 'Community Forums',
