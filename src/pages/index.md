@@ -65,8 +65,8 @@ Develop modern document workflows with cloud-based APIs for embedded viewing and
 
 You can now integrate high performance APIs into any application with ease using over a dozen APIs. Convert PDFs for downstream data analysis. Or enable creation and customization of PDFs for reporting, publications, or contract workflows.
 
-* [Learn more](https://www.adobe.com/go/dcsdk_home)
-* [Get started](https://www.adobe.com/go/dcsdks_credentials)
+* [Learn more](https://developer.adobe.com/document-services/)
+* [Get started](https://documentcloud.adobe.com/dc-integration-creation-app-cdn/main.html)
 
 
 ![dc-banner](./images/F_Illu_DevEcoDC_discovery_banner_756x500_2x.png)
@@ -92,7 +92,7 @@ The Creative Cloud Developer Platform is a collection of APIs and SDKs that let 
 
 <ProductCard slots="icon, heading, text, buttons" width="33%" />
 
-![Adobe Experience Platform Icon](https://adobe.io/shared/icons/experience_platform_appicon_RGB_noshadow_64.svg)
+![Adobe Experience Platform Icon](https://developer.adobe.com/shared/icons/experience_platform_appicon_RGB_noshadow_64.svg)
 
 #### Adobe Experience Platform
 
@@ -104,7 +104,7 @@ Develop customer experience applications, powered by real-time customer profiles
 
 <ProductCard slots="icon, heading, text, buttons" width="33%" />
 
-![DC Cloud Icon](https://adobe.io/shared/icons/dc_appicon_64.svg)
+![DC Cloud Icon](https://developer.adobe.com/shared/icons/dc_appicon_64.svg)
 
 #### Adobe PDF Embed API
 
@@ -131,14 +131,13 @@ Customize your Adobe workflow, deploy your code in the cloud, all with no server
 
 Apply real-time analytics and detailed segmentation across all of your marketing channels.   
 
-* [Learn more](/apis/experiencecloud/analytics)
 * [View docs](/apis/experiencecloud/analytics/docs)
 
 
 
 <ProductCard slots="icon, heading, text, buttons" width="33%" />
 
-![Adobe Stock icon](https://adobe.io/shared/icons/st_appicon_64.svg)
+![Adobe Stock icon](https://developer.adobe.com/shared/icons/st_appicon_64.svg)
 
 #### Adobe Stock API
 
@@ -151,7 +150,7 @@ Access stunning high-quality images, graphics, and videos to use in ads, email t
 
 <ProductCard slots="icon, heading, text, buttons" width="33%" />
 
-![Adobe Photoshop icon](https://adobe.io/shared/icons/ps_appicon_64.svg)
+![Adobe Photoshop icon](https://developer.adobe.com/shared/icons/ps_appicon_64.svg)
 
 #### Adobe Photoshop API
 
@@ -162,16 +161,13 @@ Photoshop API and extensions automate time-consuming design tasks, saving you ho
 
 
 
-<ProductCard slots="icon, heading, text, buttons" width="33%" />
+<ProductCard slots="heading, text, buttons" width="33%" />
 
-![Adobe Sign icon](https://adobe.io/shared/icons/adobe_sign_appicon_64.svg)
+#### Adobe Commerce
 
-#### Adobe Sign API
+A comprehensive, extensible commerce solution with core commerce and order management capabilities to launch, manage, and scale innovative multi-channel B2B and B2C ecommerce businesses.
 
-Easily integrate e-signatures and 100% digital workflows to your organization.
-
-* [Learn more](/apis/documentcloud/sign)
-* [View docs](/apis/documentcloud/sign/docs)
+* [View docs](/commerce/pwa-studio/)
 
 
 
@@ -188,7 +184,7 @@ Deliver targeted, effective and personalized customer experiences at lightning-f
 
 <ProductCard slots="icon, heading, text, buttons" width="33%" />
 
-![Adobe Creative Cloud icon](https://adobe.io/shared/icons/cc_appicon_64.svg)
+![Adobe Creative Cloud icon](https://developer.adobe.com/shared/icons/cc_appicon_64.svg)
 
 #### Adobe Creative Cloud
 
