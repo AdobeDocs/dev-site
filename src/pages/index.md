@@ -110,7 +110,7 @@ Develop customer experience applications, powered by real-time customer profiles
 
 With only a few lines of JavaScript, provide an industry leading PDF viewing and collaboration experience. Easily integrate discovery and engagement data into Analytics platforms.
 
-* [Learn more](/apis/documentcloud/viesdk)
+* [Learn more](/document-services/apis/pdf-embed/))
 * [Try the demo](https://www.adobe.com/go/pdfEmbedAPI_demo)
 
 
@@ -131,7 +131,7 @@ Customize your Adobe workflow, deploy your code in the cloud, all with no server
 
 Apply real-time analytics and detailed segmentation across all of your marketing channels.   
 
-* [View docs](/apis/experiencecloud/analytics/docs)
+* [View docs](/analytics-apis/docs/2.0/)
 
 
 
@@ -144,7 +144,7 @@ Apply real-time analytics and detailed segmentation across all of your marketing
 Access stunning high-quality images, graphics, and videos to use in ads, email templates, and websites.   
 
 * [Learn more](/stock)
-* [View docs](/apis/creativecloud/stock/docs)
+* [View docs](/stock/docs/getting-started/)
 
 
 
