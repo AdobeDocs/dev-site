@@ -161,13 +161,15 @@ Photoshop API and extensions automate time-consuming design tasks, saving you ho
 
 
 
-<ProductCard slots="heading, text, buttons" width="33%" />
+<ProductCard slots="icon, heading, text, buttons" width="33%" />
+
+![Adobe Experience Cloud icon](https://developer.adobe.com/shared/icons/ec_helpx_ontile_48.svg)
 
 #### Adobe Commerce
 
 A comprehensive, extensible commerce solution with core commerce and order management capabilities to launch, manage, and scale innovative multi-channel B2B and B2C ecommerce businesses.
 
-* [View docs](/commerce/pwa-studio/)
+* [Learn more](/commerce/)
 
 
 
