@@ -14,9 +14,8 @@ Adobe products and services empower developers
 
 * [Explore our APIs](/apis)
 
-<TextBlock slots="image, heading, text1, buttons"/>
+<AnnouncementBlock slots="heading, text, button"/>
 
-![Summit promo](./images/summit-banner.png)
 ### Discover the new in customer experience.
 
 Develop new skills, learn the latest technology advances, and connect with developers around the world. 
