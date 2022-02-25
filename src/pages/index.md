@@ -14,6 +14,14 @@ Adobe products and services empower developers
 
 * [Explore our APIs](/apis)
 
+<AnnouncementBlock slots="heading, text, button"/>
+
+### Adobe SUMMIT | The Digital Experience Conference
+
+**March 15-16, 2022**<br/>
+Discover the new in customer experience. Develop new skills, learn the latest technology advances, and connect with developers around the world. 
+
+* [Register for free](https://summit.adobe.com/na/?promoid=RPZBN67Q&mv=other&s_osc=7015Y000003A3iiQAC&s_iid=7015Y0000039wK4QAI)
 
 <TextBlock slots="image, heading, text" width="33%" isCentered theme="lightest" />
 
