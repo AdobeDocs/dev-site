@@ -21,5 +21,6 @@ window.AIO_ALGOLIA_INDEX_ALL = [
   "xmp",
   "cloud-manager",
   "experience-platform-apis",
-  "document-services"
+  "document-services",
+  "pwa-devdocs"
 ];
