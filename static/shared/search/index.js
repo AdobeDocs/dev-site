@@ -22,5 +22,6 @@ window.AIO_ALGOLIA_INDEX_ALL = [
   "cloud-manager",
   "experience-platform-apis",
   "document-services",
-  "pwa-devdocs"
+  "pwa-devdocs",
+  "commerce-marketplace"
 ];
