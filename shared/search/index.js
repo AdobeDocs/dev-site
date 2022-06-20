@@ -25,5 +25,6 @@ window.AIO_ALGOLIA_INDEX_ALL = [
   "pwa-devdocs",
   "commerce-marketplace",
   "commerce-contributor",
-  "commerce-php"
+  "commerce-php",
+  "commerce-webapi"
 ];
