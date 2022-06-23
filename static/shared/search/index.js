@@ -23,8 +23,9 @@ window.AIO_ALGOLIA_INDEX_ALL = [
   "experience-platform-apis",
   "document-services",
   "pwa-devdocs",
-  "commerce-marketplace",
   "commerce-contributor",
+  "commerce-frontend-core",
+  "commerce-marketplace",
   "commerce-php",
   "commerce-webapi"
 ];
