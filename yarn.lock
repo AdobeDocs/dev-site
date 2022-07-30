@@ -7472,7 +7472,7 @@ gatsby-worker@^1.19.0:
     "@babel/core" "^7.15.5"
     "@babel/runtime" "^7.15.4"
 
-gatsby@^4.19.2:
+gatsby@^4.13.0:
   version "4.19.2"
   resolved "https://registry.yarnpkg.com/gatsby/-/gatsby-4.19.2.tgz#83bcc570f415124ab6fc10597662b3d8a388bf15"
   integrity sha512-e39NL+nEi0GPlE62mz66lwllbR4Baof4l/b187df4tLWZhoUU9mY/flohxPHFH4gxXqD2AqGnJsm/jOXsIKO0g==
