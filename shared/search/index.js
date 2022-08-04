@@ -28,6 +28,7 @@ window.AIO_ALGOLIA_INDEX_ALL = [
   "commerce-frontend-core",
   "commerce-marketplace",
   "commerce-php",
+  "commerce-testing",
   "commerce-webapi",
   "graphql-mesh-gateway",
 ];
