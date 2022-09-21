@@ -19,7 +19,7 @@ module.exports = async ({ core }) => {
         ...
       }`
     );
-  } else if (pathPrefix === '/') {
+  } /* else if (pathPrefix === '/') {
     core.setFailed(
       `The pathPrefix in the site's gatsby-config.js file is set to "/". This is not allowed.
 
@@ -31,7 +31,7 @@ module.exports = async ({ core }) => {
       https://developer.adobe.com/document-services/<PATH_TO_FILES>.
       `
     );
-  } else {
+  } */ else {
     if (!pathPrefix.startsWith('/') || !pathPrefix.endsWith('/')) {
       core.setFailed(
         `The pathPrefix in the site's gatsby-config.js file does not start or end with "/".
