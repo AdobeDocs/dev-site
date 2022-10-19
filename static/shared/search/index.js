@@ -20,6 +20,7 @@ window.AIO_ALGOLIA_INDEX_ALL = [
   "commerce-marketplace",
   "commerce-php",
   "commerce-pwa-studio",
+  "commerce-services",
   "commerce-testing",
   "commerce-webapi",
   "creative-cloud-libraries",
