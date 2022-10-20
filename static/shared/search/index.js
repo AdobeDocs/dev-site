@@ -41,6 +41,7 @@ window.AIO_ALGOLIA_INDEX_ALL = [
   "stock",
   "stock-api-docs",
   "substance-3d-automation",
+  "uxp-indesign",
   "uxp-photoshop",
   "uxp-photoshop-2021",
   "uxp-xd",
