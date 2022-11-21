@@ -22,11 +22,11 @@ Adobe products and services empower developers
 
 <AnnouncementBlock slots="heading, text, button" />
 
-# Don’t miss it — Adobe Developers Live: Headless
+# Adobe Summit — The Digital Experience Conference
 
-Attend skill-expanding sessions, take advantage of community networking opportunities, and get the latest updates on Adobe Experience Manager.
+Build skills, discover the latest technology innovations, and connect with a global community of developers.
 
-[Register for free](https://developerevents.adobe.com/events/details/adobe-developer-events-developer-experience-presents-adobe-developers-live-headless/?code=adobeio)
+[Register now](https://summit.adobe.com/na/?promoid=WT7FJ1RC&mv=other)
 
 <TextBlock slots="image, heading, text" width="33%" isCentered theme="lightest" />
 
