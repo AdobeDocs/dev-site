@@ -107,7 +107,7 @@ const products = [
     description:
       'Automate complex tasks, communicate with external hardware, add support for new codecs, and more.',
     icon: 'https://adobe.io/shared/icons/pr_appicon_64.svg',
-    discover: '/premierepro',
+    discover: '/premiere-pro',
     docs: false,
     lastUpdated: '1992',
     cloud: clouds[0]
@@ -118,7 +118,7 @@ const products = [
     description:
       'Create stunning visual effects, manipulate project elements, and automate complex tasks in After Effects.',
     icon: 'https://adobe.io/shared/icons/ae_appicon_64.svg',
-    discover: '/aftereffects',
+    discover: '/after-effects',
     docs: false,
     lastUpdated: '1990',
     cloud: clouds[0]
