@@ -24,7 +24,8 @@ Adobe products and services empower developers
 
 # Adobe Summit — The Digital Experience Conference
 
-Build skills, discover the latest technology innovations, and connect with a global community of developers.
+Build skills, discover the latest technology innovations, and connect with a global community of developers.  
+Mar 21-23, Las Vegas and virtual
 
 [Register now](https://summit.adobe.com/na/?promoid=WT7FJ1RC&mv=other)
 
