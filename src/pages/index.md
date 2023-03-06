@@ -25,7 +25,7 @@ Adobe products and services empower developers
 # Adobe Summit — The Digital Experience Conference
 
 Build skills, discover the latest technology innovations, and connect with a global community of developers.  
-Mar 21-23, Las Vegas and virtual
+Mar 21-23, Las Vegas and virtual.
 
 [Register now](https://summit.adobe.com/na/?promoid=WT7FJ1RC&mv=other)
 
@@ -65,7 +65,7 @@ A single hub for managing projects, assigning credentials, viewing analytics, an
 
 # Extend Adobe Solutions
 
-App Builder is a cohesive set of tools and services that enable developers to extend and integrate Adobe solutions all in one package.​ With a complete extensibility framework, built on Adobe’s infrastructure, App Builder enables developers to extend and integrate Adobe solutions with ease. Now available with Adobe Experience Manager, Adobe Commerce, and Adobe Experience Platform
+App Builder is a cohesive set of tools and services that enable developers to extend and integrate Adobe solutions all in one package.​ With a complete extensibility framework, built on Adobe’s infrastructure, App Builder enables developers to extend and integrate Adobe solutions with ease. Now available with Adobe Experience Manager, Adobe Commerce, and Adobe Experience Platform.
 
 * [Learn more](/app-builder/)
 
