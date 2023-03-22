@@ -33,9 +33,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@adobe/gatsby-theme-aio@npm:^4.8.5-mobilenav1":
-  version: 4.8.5-mobilenav1
-  resolution: "@adobe/gatsby-theme-aio@npm:4.8.5-mobilenav1"
+"@adobe/gatsby-theme-aio@npm:^4.8.5-mobilenav3":
+  version: 4.8.5-mobilenav3
+  resolution: "@adobe/gatsby-theme-aio@npm:4.8.5-mobilenav3"
   dependencies:
     "@adobe/focus-ring-polyfill": ^0.1.5
     "@adobe/gatsby-source-github-file-contributors": ^0.3.1
@@ -125,7 +125,7 @@ __metadata:
     gatsby: ^4.22.0
     react: ^17.0.2
     react-dom: ^17.0.2
-  checksum: d3336b4174323e94e5ce0327b309c29c166a55830a20abc99ae81a11d06cbbbe3ca59f7123c1035542ad44b0b7d30919cd6456343da28b3436607d0323ff56b5
+  checksum: 52a08c48b799353da438e650a5424ab4086fe92c7a63f1acc0922cca54c3dab3ba33f7a1e3975d2de8da00df458f7c856f2209c6f3dded6c7e9215aa3df182b5
   languageName: node
   linkType: hard
 
@@ -7611,7 +7611,7 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "dev-site@workspace:."
   dependencies:
-    "@adobe/gatsby-theme-aio": ^4.8.5-mobilenav1
+    "@adobe/gatsby-theme-aio": ^4.8.5-mobilenav3
     gatsby: 4.22.0
     react: ^17.0.2
     react-dom: ^17.0.2
