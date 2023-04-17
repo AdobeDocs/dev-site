@@ -20,6 +20,14 @@ Adobe products and services empower developers
 
 * [Explore our APIs](/apis)
 
+<AnnouncementBlock slots="heading, text, button" />
+
+# Don’t miss it — Adobe Developers Live: Composable Experiences
+
+Attend skill-expanding sessions, take advantage of community networking opportunities, and get the latest developer updates on next generation composable Adobe Experience Manager.
+
+[Register for free](https://developerevents.adobe.com/events/details/adobe-developer-events-developer-experience-presents-adobe-developers-live-composable-experiences/?code=adobedev)
+
 <TextBlock slots="image, heading, text" width="33%" isCentered theme="lightest" />
 
 ![](./images/home-illustration1.png)
