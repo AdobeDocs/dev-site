@@ -144,7 +144,7 @@ jobs:
           GATSBY_FEDS_PRIVACY_ID: ${{ secrets.AIO_FEDS_PRIVACY_ID }}
 
       - name: Deploy
-        uses: icaraps/static-website-deploy@no-downtime
+        uses: icaraps/static-website-deploy@debug
         with:
           enabled-static-website: 'true'
           source: 'public'
@@ -153,7 +153,7 @@ jobs:
           remove-existing-files: 'true'
           exclude-subfolder: ${{ needs.set-state.outputs.exclude_subfolder }}
       - name: Purge Fastly Cache
-        uses: icaraps/gatsby-fastly-purge-action@debug
+        uses: icaraps/gatsby-fastly-purge-action@no-downtime
         with:
           fastly-token: ${{ secrets.AIO_FASTLY_TOKEN }}
           fastly-url: '${{ secrets.AIO_FASTLY_DEV_URL}}${{ needs.set-state.outputs.path_prefix }}'
