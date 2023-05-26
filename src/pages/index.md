@@ -26,7 +26,7 @@ Adobe products and services empower developers
 
 Join us to learn about key developer priorities and roadmaps for Creative Cloud and Adobe Express in 2023.
 
-[Call to Action](https://hopin.com/events/adobe-developer-partner-days-2023/registration)
+[Register for free](https://hopin.com/events/adobe-developer-partner-days-2023/registration)
 
 <TextBlock slots="image, heading, text" width="33%" isCentered theme="lightest" />
 
