@@ -22,11 +22,11 @@ Adobe products and services empower developers
 
 <AnnouncementBlock slots="heading, text, button" />
 
-# Don’t miss it — Adobe Developers Live: Composable Experiences
+# Developer and Partner Days 2023 for Adobe Express and Creative Cloud
 
-Attend skill-expanding sessions, take advantage of community networking opportunities, and get the latest developer updates on next generation composable Adobe Experience Manager.
+Join us to learn about key developer priorities and roadmaps for Creative Cloud and Adobe Express in 2023.
 
-[Register for free](https://developerevents.adobe.com/events/details/adobe-developer-events-developer-experience-presents-adobe-developers-live-composable-experiences/?code=adobedev)
+[Call to Action](https://hopin.com/events/adobe-developer-partner-days-2023/registration)
 
 <TextBlock slots="image, heading, text" width="33%" isCentered theme="lightest" />
 
