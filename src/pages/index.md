@@ -22,11 +22,11 @@ Adobe products and services empower developers
 
 <AnnouncementBlock slots="heading, text, button" />
 
-# Developer and Partner Days 2023 for Adobe Express and Creative Cloud
+# Extend the power of Adobe Express with add-ons
 
-Join us to learn about key developer priorities and roadmaps for Creative Cloud and Adobe Express in 2023.
+Use web technologies like HTML, CSS and Javascript to build add-ons that unlock creative potential in new ways.
 
-[Register for free](https://hopin.com/events/adobe-developer-partner-days-2023/registration)
+[Learn more](https://developer.adobe.com/express-add-ons/)
 
 <TextBlock slots="image, heading, text" width="33%" isCentered theme="lightest" />
 
