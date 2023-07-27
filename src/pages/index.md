@@ -10,6 +10,9 @@ description: The most memorable digital experiences are unleashed by developer c
 GlobalHeaderTemp: true  
 ---
 
+import '../styles/main.css'
+import HomeResourceCard from './home/home-resource.md';
+
 <Hero slots="image, heading, text, buttons" variant="fullwidth" background="rgb(15, 55, 95)" />
 
 ![](./images/F_Illu_DevEcoHomepage_1440x500_2x.png)
@@ -20,13 +23,13 @@ Adobe products and services empower developers
 
 * [Explore our APIs](/apis)
 
-<AnnouncementBlock slots="heading, text, button" />
+<!-- <AnnouncementBlock slots="heading, text, button" />
 
 # Extend the power of Adobe Express with add-ons
 
 Use web technologies like HTML, CSS and Javascript to build add-ons that unlock creative potential in new ways.
 
-[Learn more](https://developer.adobe.com/express-add-ons/)
+[Learn more](https://developer.adobe.com/express-add-ons/) -->
 
 <TextBlock slots="image, heading, text" width="33%" isCentered theme="lightest" />
 
@@ -55,6 +58,16 @@ We built our reputation on our Creative, Document, and Experience Cloud products
 ### Developer Console
 
 A single hub for managing projects, assigning credentials, viewing analytics, and accessing APIs.
+
+
+
+<WrapperComponent slots="content" repeat="1" theme="light" className="Use-cases-for-Adobe-Document-Services"/>
+
+<HomeResourceCard />
+
+<TextBlock slots="buttons" isCentered theme="light"  className='Use-cases-for-Adobe-Document-Services home-news-button'/>
+
+- [Learn More](/src/pages/use-cases/agreements-and-contracts/sales-proposals-and-contracts/)
 
 
 
@@ -96,14 +109,13 @@ The Creative Cloud Developer Platform is a collection of APIs and SDKs that let 
 
 * [Learn more](/creative-cloud/)
 
-<TitleBlock slots="heading" /> 
-
-### Get started building with Adobe
 
 
+<!-- <TitleBlock slots="heading" /> 
 
+### Get started building with Adobe -->
 
-<ProductCard slots="icon, heading, text, buttons" width="33%" />
+<!-- <ProductCard slots="icon, heading, text, buttons" width="33%" />
 
 ![Adobe Experience Platform Icon](https://developer.adobe.com/shared/icons/experience_platform_appicon_RGB_noshadow_64.svg)
 
@@ -205,4 +217,4 @@ Deliver targeted, effective and personalized customer experiences at lightning-f
 
 Adobe Creative Cloud APIs and SDKs enable developers to impact creative work for millions of users worldwide. Build and distribute inspiring, productivity-driving plugins and integrations—all with Adobe Creative Cloud.
 
-* [Learn more](/creative-cloud)
+* [Learn more](/creative-cloud) -->
