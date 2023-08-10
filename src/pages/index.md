@@ -132,4 +132,4 @@ A single hub for managing projects, assigning credentials, viewing analytics, an
 
 <TextBlock slots="buttons" isCentered theme="lightest"  className='Use-cases-for-Adobe-Document-Services home-news-button'/>
 
--[Learn More](https://developer-stage.adobe.com/news/)
+- [Learn More](https://developer-stage.adobe.com/news/)
