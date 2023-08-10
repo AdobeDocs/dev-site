@@ -6,7 +6,7 @@
 
 [](https://max.adobe.com/?promoid=91BF4SHP&mv=other)
 
-![EMPTY_ALT](../images/MAX2023-DevDotCom-Images-400x200-B.png)
+![Adobe MAX](../images/MAX2023-DevDotCom-Images-400x200-B.png)
 
 ### Adobe Max: The Creativity Conference
 
@@ -16,7 +16,7 @@ Explore and play with new creative tools, meet other passionate creatives, and b
 
 [](https://developer.adobe.com/app-builder/trial/)
 
-![EMPTY_ALT](../images/App_Builder.png)
+![App Builder](../images/App_Builder.png)
 
 ### Try App Builder for 30 days, free!!
 
@@ -26,7 +26,7 @@ Start building your custom cloud native Adobe app by signing up for our free tri
 
 [](https://developer.adobe.com/express-add-ons/)
 
-![EMPTY_ALT](../images/Explore_Image_1.png)
+![Adobe Express](../images/Explore_Image_1.png)
 
 ### Extend the power of Adobe Express
 
