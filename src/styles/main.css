@@ -15,13 +15,9 @@
     margin-top: 15px;
 }
 
-.useCaseCard .spectrum-Card-coverPhoto {
-    width: 400px !important;
-    height: 200px !important;
-}
-
 .home-news-button {
-    padding: 0 !important;
+    padding-top: 0 !important;
+    padding-bottom: 2% !important;
 }
 .useCaseCard .spectrum-Card-body:last-child {
     border-top-left-radius: 0;
@@ -47,4 +43,23 @@
         border-bottom-left-radius: var(--spectrum-card-border-radius, var(--spectrum-alias-border-radius-regular));
         height: 160px;
     }
+}
+
+.mini-card {
+    padding: 1% 0 24px 0 !important;
+} 
+
+.mini-card h3 {
+    font-size: large !important;
+    font-weight: 700 !important;
+    white-space: nowrap !important;
+}
+
+.mini-card > div > div > div{
+    box-shadow: 0 9px 15px 5px #e6e6e6 !important;
+    margin: 0 !important;
+}
+
+.mini-card > div > div > div > div{
+    max-height: 100px !important;
 }
