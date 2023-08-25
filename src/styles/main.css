@@ -46,20 +46,46 @@
 }
 
 .mini-card {
-    padding: 1% 0 24px 0 !important;
-} 
+    padding: 0 0 4% 0 !important;
+}
 
 .mini-card h3 {
     font-size: large !important;
     font-weight: 700 !important;
-    white-space: nowrap !important;
 }
 
-.mini-card > div > div > div{
-    box-shadow: 0 9px 15px 5px #e6e6e6 !important;
+.mini-card>div {
+    padding: 10px !important;
+    gap: 5% !important;
+    width: 60% !important;
+    margin: auto !important;
+    max-width: 100% !important;
+}
+
+.mini-card>div>div {
+    width: 100% !important;
     margin: 0 !important;
+    border-width: 1px !important;
+    border-style: solid !important;
+    border-color: #cccccc ;
+    max-height: 100px !important;
 }
 
-.mini-card > div > div > div > div{
-    max-height: 100px !important;
+.mini-card a>div:last-child{
+    border: none !important;
+    height: 67px !important;
+}
+
+.mini-card>div>a>div>div:first-child {
+    width: 25%;
+}
+
+.mini-card>div>div>div>div {
+    width: 200px !important;
+    padding: 0 0 0 4% !important;
+    border: none !important;
+}
+
+.support-tools {
+    justify-items: center;
 }

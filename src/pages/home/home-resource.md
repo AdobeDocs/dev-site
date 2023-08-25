@@ -10,7 +10,7 @@
 
 ### Adobe Max: The Creativity Conference
 
-Explore and play with new creative tools, meet other passionate creatives, and be inspired at every turn. Join us in person or online.
+Explore and play with new creative tools, meet other passionate creatives, and be inspired at every turn. Join us in person or online, Oct 10-11.
 
 <ResourceCard slots="link, image, heading, text" width="33%"  theme='lightest' className="useCaseCard" />
 
@@ -18,7 +18,7 @@ Explore and play with new creative tools, meet other passionate creatives, and b
 
 ![App Builder](../images/App_Builder.png)
 
-### Try App Builder for 30 days, free!!
+### Try App Builder for 30 days for free
 
 Start building your custom cloud native Adobe app by signing up for our free trial program. Provide feedback to help shape the future of App Builder.
 
