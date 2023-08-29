@@ -1,4 +1,4 @@
-<MiniResourceCard slots="image,heading,link" repeat="9" theme="lightest" inRow="3" className="mini-card support-tools" />
+<MiniResourceCard slots="image,heading,link" repeat="9" theme="light" inRow="3" className="mini-card support-tools" />
 
 ![Adobe Express](../images/express.svg)
 
