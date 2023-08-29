@@ -26,13 +26,13 @@ Adobe products and services empower developers
 * [Explore our APIs](/apis)
 
 
-<TitleBlock slots="heading" theme="light" className="Get-started-building"/>
+<TitleBlock slots="heading" theme="lightest" className="Get-started-building"/>
 
 ## Get Started Building With Adobe
 
 <HomeMiniCards />
 
-<TextBlock slots="buttons" isCentered theme="light"  className='Use-cases-for-Adobe-Document-Services home-news-button'/>
+<TextBlock slots="buttons" isCentered theme="lightest"  className='Use-cases-for-Adobe-Document-Services home-news-button'/>
 
 - [More Products](/apis)
 
@@ -64,10 +64,10 @@ We built our reputation on our Creative, Document, and Experience Cloud products
 A single hub for managing projects, assigning credentials, viewing analytics, and accessing APIs. -->
 
 
-<WrapperComponent slots="content" repeat="1" theme="lightest" className="Use-cases-for-Adobe-Document-Services"/>
+<WrapperComponent slots="content" repeat="1" theme="light" className="Use-cases-for-Adobe-Document-Services"/>
 
 <HomeResourceCard />
 
-<TextBlock slots="buttons" isCentered theme="lightest"  className='Use-cases-for-Adobe-Document-Services home-news-button'/>
+<TextBlock slots="buttons" isCentered theme="light"  className='Use-cases-for-Adobe-Document-Services home-news-button'/>
 
 - [Learn More](https://developer-stage.adobe.com/news/)
