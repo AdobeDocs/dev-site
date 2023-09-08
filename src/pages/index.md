@@ -44,7 +44,7 @@ Adobe products and services empower developers
 
 ![](./images/home-illustration1.png)
 
-[Launch the Developer Console:](http://developer.adobe.com/console) The ultimate developer destination to access Adobe APIs & SDKs.
+[Launch the Adobe Developer Console:](http://developer.adobe.com/console) The ultimate developer destination to access Adobe APIs & SDKs.
 
 
 <TextBlock slots="image, text" width="33%" isCentered theme="lightest" />
