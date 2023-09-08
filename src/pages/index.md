@@ -25,49 +25,47 @@ Adobe products and services empower developers
 
 * [Explore our APIs](/apis)
 
-
 <TitleBlock slots="heading" theme="lightest" className="Get-started-building"/>
 
-## Get Started Building With Adobe
+## Featured Products
 
 <HomeMiniCards />
 
 <TextBlock slots="buttons" isCentered theme="lightest"  className='Use-cases-for-Adobe-Document-Services home-news-button'/>
 
-- [More Products](/apis)
+- [View All Developer Products](/apis)
 
 
-<!-- <TextBlock slots="image, heading, text" width="33%" isCentered theme="light"/>
+<TitleBlock slots="heading" theme="lightest" className="Get-started-building"/>
+
+# Get started building with Adobe
+
+<TextBlock slots="image, text" width="33%" isCentered theme="lightest" />
 
 ![](./images/home-illustration1.png)
 
-### Why build with Adobe?
-
-Our mobile, cloud, and web technologies unlock building potential as boundless as the power of your imagination.
+[Launch the Developer Console:](http://developer.adobe.com/console) The ultimate developer destination to access Adobe APIs & SDKs.
 
 
-<TextBlock slots="image, heading, text" width="33%" isCentered theme="light"/>
+<TextBlock slots="image, text" width="33%" isCentered theme="lightest" />
 
 ![](./images/home-illustration2.png)
 
-### Integrate with APIs
-
-We built our reputation on our Creative, Document, and Experience Cloud products. Use our APIs as the foundation for yours.  
+See what Adobe Developers have created on the [Adobe Exchange Marketplace](http://exchange.adobe.com/) 
 
 
-<TextBlock slots="image, heading, text" width="33%" isCentered theme="light"/>
+<TextBlock slots="image, text" width="33%" isCentered theme="lightest"/>
 
 ![](./images/home-illustration3.png)
 
-### Developer Console
-
-A single hub for managing projects, assigning credentials, viewing analytics, and accessing APIs. -->
+Never miss a story from the [Adobe Tech Blog](http://blog.developer.adobe.com/)
 
 
-<WrapperComponent slots="content" repeat="1" theme="light" className="Use-cases-for-Adobe-Document-Services"/>
+
+<WrapperComponent slots="content" repeat="1" theme="lightest" className="Use-cases-for-Adobe-Document-Services"/>
 
 <HomeResourceCard />
 
-<TextBlock slots="buttons" isCentered theme="light"  className='Use-cases-for-Adobe-Document-Services home-news-button'/>
+<TextBlock slots="buttons" isCentered theme="lightest"  className='Use-cases-for-Adobe-Document-Services home-news-button'/>
 
 - [Learn More](https://developer-stage.adobe.com/news/)

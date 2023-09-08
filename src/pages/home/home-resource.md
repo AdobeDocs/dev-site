@@ -1,8 +1,8 @@
-<TitleBlock slots="heading" theme="light" />
+<TitleBlock slots="heading" theme="lightest" />
 
 ## Latest Developer News
 
-<ResourceCard slots="link, image, heading, text" width="33%"  theme='light' className="useCaseCard"/>
+<ResourceCard slots="link, image, heading, text" width="33%"  theme='lightest' className="useCaseCard"/>
 
 [](https://max.adobe.com/?promoid=91BF4SHP&mv=other)
 
@@ -12,7 +12,7 @@
 
 Explore and play with new creative tools, meet other passionate creatives, and be inspired at every turn. Join us in person or online, Oct 10-11.
 
-<ResourceCard slots="link, image, heading, text" width="33%"  theme='light' className="useCaseCard" />
+<ResourceCard slots="link, image, heading, text" width="33%"  theme='lightest' className="useCaseCard" />
 
 [](https://developer.adobe.com/app-builder/trial/)
 
@@ -22,7 +22,7 @@ Explore and play with new creative tools, meet other passionate creatives, and b
 
 Start building your custom cloud native Adobe app by signing up for our free trial program. Provide feedback to help shape the future of App Builder.
 
-<ResourceCard slots="link, image, heading, text" width="33%"  theme='light' className="useCaseCard" />
+<ResourceCard slots="link, image, heading, text" width="33%"  theme='lightest' className="useCaseCard" />
 
 [](https://developer.adobe.com/express-add-ons/)
 

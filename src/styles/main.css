@@ -89,3 +89,17 @@
 .support-tools {
     justify-items: center;
 }
+
+.announcement>div>div>div {
+    width: 100%;
+    text-align: center;
+}
+
+.announcement>div {
+    padding: 5% 0 2% 0  !important;
+}
+
+.announcement>div>div>div>h3,
+.viewAddOn h3 {
+    font-size: 37px !important;
+}

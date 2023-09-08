@@ -28,14 +28,14 @@
 [Learn More](https://developer.adobe.com/photoshop/api/) 
 
 
-![Adobe Developer App Builder](../images/ec_helpx_ontile_48.png)
+![Adobe Developer App Builder](../images/experience_platform_appicon_RGB_noshadow_64.png)
 
 ### Adobe Developer App Builder
 
 [Learn More](https://developer.adobe.com/app-builder/) 
 
 
-![Adobe Commerce](../images/ec_helpx_ontile_48.png)
+![Adobe Commerce](../images/experience_platform_appicon_RGB_noshadow_64.png)
 
 ### Adobe Commerce
 
