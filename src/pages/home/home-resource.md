@@ -2,7 +2,7 @@
 
 ## Latest Developer News
 
-<ResourceCard slots="link, image, heading, text" width="33%"  theme='lightest' className="useCaseCard"/>
+<ResourceCard slots="link, image, heading, text" width="33%"  theme='lightest' className="useCaseCard index-adobe-max"/>
 
 [](https://max.adobe.com/?promoid=91BF4SHP&mv=other)
 
@@ -12,17 +12,17 @@
 
 Explore and play with new creative tools, meet other passionate creatives, and be inspired at every turn. Join us in person or online, Oct 10-11.
 
-<ResourceCard slots="link, image, heading, text" width="33%"  theme='lightest' className="useCaseCard" />
+<ResourceCard slots="link, image, heading, text" width="33%"  theme='lightest' className="useCaseCard index-app-builder" />
 
 [](https://developer.adobe.com/app-builder/trial/)
 
-![App Builder](../images/App_Builder.png)
+![App Builder](../images/Try_App_Builder_now_CTA.png)
 
 ### Try App Builder for 30 days for free
 
-Start building your custom cloud native Adobe app by signing up for our free trial program. Provide feedback to help shape the future of App Builder.
+Start building your custom cloud native Adobe app by signing up for our free trial program.
 
-<ResourceCard slots="link, image, heading, text" width="33%"  theme='lightest' className="useCaseCard" />
+<ResourceCard slots="link, image, heading, text" width="33%"  theme='lightest' className="useCaseCard index-express" />
 
 [](https://developer.adobe.com/express-add-ons/)
 

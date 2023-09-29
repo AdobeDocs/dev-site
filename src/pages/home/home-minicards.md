@@ -1,4 +1,4 @@
-<MiniResourceCard slots="image,heading,link" repeat="9" theme="lightest" inRow="3" className="mini-card support-tools" />
+<MiniResourceCard slots="image,heading,link" repeat="9" theme="lightest" inRow="3" className="mini-card support-tools index-minicards" />
 
 ![Adobe Express](../images/express.png)
 
@@ -25,28 +25,28 @@
 
 ### Adobe Photoshop API
 
-[Learn More](https://developer.adobe.com/photoshop/api/) 
+[Learn More](https://developer.adobe.com/photoshop/api/)
 
 
 ![Adobe Developer App Builder](../images/experience_platform_appicon_RGB_noshadow_64.png)
 
 ### Adobe Developer App Builder
 
-[Learn More](https://developer.adobe.com/app-builder/) 
+[Learn More](https://developer.adobe.com/app-builder/)
 
 
 ![Adobe Commerce](../images/experience_platform_appicon_RGB_noshadow_64.png)
 
 ### Adobe Commerce
 
-[Learn More](https://developer.adobe.com/commerce/) 
+[Learn More](https://developer.adobe.com/commerce/)
 
 
 ![Adobe Creative Cloud](../images/creativecloud.png)
 
 ### Adobe Creative Cloud
 
-[Learn More](https://developer.adobe.com/creative-cloud/) 
+[Learn More](https://developer.adobe.com/creative-cloud/)
 
 
 ![Adobe PDF Embed API](../images/dc_appicon_64.png)
