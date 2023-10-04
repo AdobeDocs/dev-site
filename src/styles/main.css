@@ -54,9 +54,14 @@
     font-weight: 700 !important;
 }
 
+@media screen and (min-width: 1024px) {
+    .mini-card>div{
+        gap: 5% !important;
+    }
+}
+
 .mini-card>div {
     padding: 10px !important;
-    gap: 5% !important;
     width: 60% !important;
     margin: auto !important;
     max-width: 100% !important;
@@ -102,4 +107,10 @@
 .announcement>div>div>div>h3,
 .viewAddOn h3 {
     font-size: 37px !important;
+}
+
+@media screen and (max-width: 1024px) {
+    .text-style>div>p{
+        height: auto;
+    }
 }

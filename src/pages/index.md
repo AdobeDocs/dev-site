@@ -40,21 +40,21 @@ Adobe products and services empower developers
 
 # Get started building with Adobe
 
-<TextBlock slots="image, text" width="33%" isCentered theme="lightest" className="index-developer-products"/>
+<TextBlock slots="image, text" width="33%" isCentered theme="lightest" className="text-style index-developer-products"/>
 
 ![](./images/home-illustration1.png)
 
 [Launch the Adobe Developer Console:](http://developer.adobe.com/console) The ultimate developer destination to access Adobe APIs & SDKs.
 
 
-<TextBlock slots="image, text" width="33%" isCentered theme="lightest" className="index-exchange-adobe"/>
+<TextBlock slots="image, text" width="33%" isCentered theme="lightest" className="text-style index-exchange-adobe"/>
 
 ![](./images/home-illustration2.png)
 
 See what Adobe Developers have created on the [Adobe Exchange Marketplace](http://exchange.adobe.com/) 
 
 
-<TextBlock slots="image, text" width="33%" isCentered theme="lightest" className="index-adobe-tech-blog"/>
+<TextBlock slots="image, text" width="33%" isCentered theme="lightest" className="text-style index-adobe-tech-blog"/>
 
 ![](./images/home-illustration3.png)
 
@@ -68,4 +68,4 @@ Never miss a story from the [Adobe Tech Blog](http://blog.developer.adobe.com/)
 
 <TextBlock slots="buttons" isCentered theme="lightest"  className='Use-cases-for-Adobe-Document-Services home-news-button index-learn-more'/>
 
-- [Learn More](https://developer-stage.adobe.com/news/)
+- [Learn More](https://developer.adobe.com/news/)
