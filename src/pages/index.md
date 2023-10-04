@@ -68,4 +68,4 @@ Never miss a story from the [Adobe Tech Blog](http://blog.developer.adobe.com/)
 
 <TextBlock slots="buttons" isCentered theme="lightest"  className='Use-cases-for-Adobe-Document-Services home-news-button index-learn-more'/>
 
-- [Learn More](https://developer.adobe.com/news/)
+- [Learn More](/news)
