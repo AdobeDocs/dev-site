@@ -2,15 +2,15 @@
 
 ## Latest Developer News
 
-<ResourceCard slots="link, image, heading, text" width="33%"  theme='lightest' className="useCaseCard index-adobe-max"/>
+<ResourceCard slots="link, image, heading, text" width="33%"  theme='lightest' className="useCaseCard index-adobe-developer-live"/>
 
-[](https://max.adobe.com/?promoid=91BF4SHP&mv=other)
+[](https://developerevents.adobe.com/events/details/adobe-developer-events-developer-experience-presents-adobe-developers-live-content-and-commerce/?code=exleague)
 
-![Adobe MAX](../images/MAX2023-DevDotCom-Images-400x200-B.png)
+![Adobe Developers Live](../images/developer_live.png)
 
-### Adobe Max: The Creativity Conference
+### Adobe Developers Live
 
-Explore and play with new creative tools, meet other passionate creatives, and be inspired at every turn. Join us in person or online, Oct 10-11.
+Adobe Developers Live brings together content and commerce developers with diverse backgrounds and a singular purpose – to create incredible end-to-end composable experiences using Edge Delivery services in Adobe Experience Manager and Adobe Commerce.
 
 <ResourceCard slots="link, image, heading, text" width="33%"  theme='lightest' className="useCaseCard index-app-builder" />
 
