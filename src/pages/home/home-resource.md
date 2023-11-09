@@ -4,13 +4,14 @@
 
 <ResourceCard slots="link, image, heading, text" width="33%"  theme='lightest' className="useCaseCard index-adobe-developer-live"/>
 
-[](https://developerevents.adobe.com/events/details/adobe-developer-events-developer-experience-presents-adobe-developers-live-content-and-commerce/?code=exleague)
+[](https://summit.adobe.com/na/?promoid=P79NQL4J&mv=other)
 
-![Adobe Developers Live](../images/developer_live.png)
+![Adobe Summit](../images/summit_promo.jpg)
 
-### Adobe Developers Live
+### Extraordinary growth starts at Summit
 
-Adobe Developers Live brings together content and commerce developers with diverse backgrounds and a singular purpose – to create incredible end-to-end composable experiences using Edge Delivery services in Adobe Experience Manager and Adobe Commerce.
+Build skills, discover the latest technology innovations and connect with a global community of developers. <br/> <br/> March 26–28, 2024 | Las Vegas and online <br/> March 25, 2024 | Preconference in Las Vegas
+
 
 <ResourceCard slots="link, image, heading, text" width="33%"  theme='lightest' className="useCaseCard index-app-builder" />
 
@@ -24,10 +25,10 @@ Start building your custom cloud native Adobe app by signing up for our free tri
 
 <ResourceCard slots="link, image, heading, text" width="33%"  theme='lightest' className="useCaseCard index-express" />
 
-[](https://developer.adobe.com/express-add-ons/)
+[](https://developer.adobe.com/commerce/extensibility/)
 
-![Adobe Express](../images/Explore_Image_1.png)
+![Adobe Express](../images/commerce_extensibility.png)
 
-### Extend the power of Adobe Express
+### Adobe Commerce Extensibility
 
-Use web technologies like HTML, CSS and Javascript to build add-ons that unlock creative potential in new ways.
+Learn how develop Out-of-Process apps that extend and customize Adobe Commerce.
