@@ -86,9 +86,6 @@ jobs:
       - name: Enable Corepack for Yarn v3
         run: corepack enable
 
-      - name: Prepare Corepack Yarn v3
-        run: corepack prepare yarn@1.22.19 --activate
-
       - name: test
         uses: borales/actions-yarn@v4
         with:
@@ -97,7 +94,7 @@ jobs:
       - name: Install Yarn v3
         uses: borales/actions-yarn@v4
         with:
-          cmd: set version 3.2.2
+          cmd: set version stable
 
       - name: test
         uses: borales/actions-yarn@v4
