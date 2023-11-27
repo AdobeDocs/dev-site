@@ -94,7 +94,7 @@ jobs:
       - name: Install Yarn v3
         uses: borales/actions-yarn@v3
         with:
-          cmd: set version stable
+          cmd: set version stable --verbose
 
       - name: Install Dependencies
         uses: borales/actions-yarn@v3
