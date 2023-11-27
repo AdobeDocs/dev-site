@@ -89,7 +89,7 @@ jobs:
       - name: Install Yarn v3
         uses: borales/actions-yarn@v3
         with:
-          cmd: set version latest
+          cmd: set version 1.22.1
 
       - name: Install Dependencies
         uses: borales/actions-yarn@v3
