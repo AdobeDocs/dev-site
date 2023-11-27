@@ -91,10 +91,8 @@ jobs:
         with:
           cmd: --version
 
-      - name: Install Yarn v3
-        uses: borales/actions-yarn@v3
-        with:
-          cmd: set version 1.22.1
+      - name: Prepare Corepack Yarn v3
+        run: corepack prepare yarn@3.2.2 --activate
 
       - name: test
         uses: borales/actions-yarn@v3
