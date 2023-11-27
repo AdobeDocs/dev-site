@@ -14,7 +14,6 @@ import '../styles/main.css'
 import HomeResourceCard from './home/home-resource.md';
 import HomeMiniCards from './home/home-minicards.md';
 
-
 <Hero slots="image, heading, text, buttons" variant="fullwidth" background="rgb(15, 55, 95)" className="index-hero"/>
 
 ![](./images/F_Illu_DevEcoHomepage_1440x500_2x.png)
@@ -33,8 +32,7 @@ Adobe products and services empower developers
 
 <TextBlock slots="buttons" isCentered theme="lightest"  className='Use-cases-for-Adobe-Document-Services home-news-button index-developer-products'/>
 
-- [View All Developer Products](/apis)
-
+* [View All Developer Products](/apis)
 
 <TitleBlock slots="heading" theme="lightest" className="Get-started-building"/>
 
@@ -46,13 +44,11 @@ Adobe products and services empower developers
 
 [Launch the Adobe Developer Console:](http://developer.adobe.com/console) The ultimate developer destination to access Adobe APIs & SDKs.
 
-
 <TextBlock slots="image, text" width="33%" isCentered theme="lightest" className="text-style index-exchange-adobe"/>
 
 ![](./images/home-illustration2.png)
 
-See what Adobe Developers have created on the [Adobe Exchange Marketplace](http://exchange.adobe.com/) 
-
+See what Adobe Developers have created on the [Adobe Exchange Marketplace](http://exchange.adobe.com/)
 
 <TextBlock slots="image, text" width="33%" isCentered theme="lightest" className="text-style index-adobe-tech-blog"/>
 
@@ -60,12 +56,10 @@ See what Adobe Developers have created on the [Adobe Exchange Marketplace](http:
 
 Never miss a story from the [Adobe Tech Blog](http://blog.developer.adobe.com/)
 
-
-
 <WrapperComponent slots="content" repeat="1" theme="lightest" className="Use-cases-for-Adobe-Document-Services"/>
 
 <HomeResourceCard />
 
 <TextBlock slots="buttons" isCentered theme="lightest"  className='Use-cases-for-Adobe-Document-Services home-news-button index-learn-more'/>
 
-- [Learn More](/news)
+* [Learn More](/news)
