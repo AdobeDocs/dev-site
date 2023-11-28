@@ -94,7 +94,7 @@ jobs:
       - name: Install Yarn v3
         uses: borales/actions-yarn@v4
         with:
-          cmd: set version stable
+          cmd: set version 3.2.2
 
       - name: test
         uses: borales/actions-yarn@v4
