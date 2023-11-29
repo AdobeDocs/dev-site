@@ -6,13 +6,11 @@
 
 [Learn More](https://developer.adobe.com/express/)
 
-
 ![Adobe Document Cloud](../images/dc_appicon_64.png)
 
 ### Adobe Document Cloud
 
 [Learn More](https://developer.adobe.com/document-services/homepage)
-
 
 ![Adobe Experience Platform](../images/experience_platform_appicon_RGB_noshadow_64.png)
 
@@ -20,13 +18,11 @@
 
 [Discover](https://developer.adobe.com/experience-platform-apis/)
 
-
 ![Adobe Photoshop API](../images/ps_appicon_64.png)
 
 ### Adobe Photoshop API
 
 [Learn More](https://developer.adobe.com/photoshop/api/)
-
 
 ![Adobe Developer App Builder](../images/experience_platform_appicon_RGB_noshadow_64.png)
 
@@ -34,13 +30,11 @@
 
 [Learn More](https://developer.adobe.com/app-builder/)
 
-
 ![Adobe Commerce](../images/experience_platform_appicon_RGB_noshadow_64.png)
 
 ### Adobe Commerce
 
 [Learn More](https://developer.adobe.com/commerce/)
-
 
 ![Adobe Creative Cloud](../images/creativecloud.png)
 
@@ -48,13 +42,11 @@
 
 [Learn More](https://developer.adobe.com/creative-cloud/)
 
-
 ![Adobe PDF Embed API](../images/dc_appicon_64.png)
 
 ### Adobe PDF Embed API
 
 [Learn More](https://developer.adobe.com/document-services/apis/pdf-embed/)
-
 
 ![Adobe Analytics API](../images/experience_platform_appicon_RGB_noshadow_64.png)
 

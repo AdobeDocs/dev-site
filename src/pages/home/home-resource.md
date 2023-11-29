@@ -12,7 +12,6 @@
 
 Build skills, discover the latest technology innovations and connect with a global community of developers. <br/> <br/> March 26–28, 2024 | Las Vegas and online <br/> March 25, 2024 | Preconference in Las Vegas
 
-
 <ResourceCard slots="link, image, heading, text" width="33%"  theme='lightest' className="useCaseCard index-app-builder" />
 
 [](https://developer.adobe.com/app-builder/trial/)
