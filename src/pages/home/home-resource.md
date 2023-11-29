@@ -6,7 +6,7 @@
 
 [](https://summit.adobe.com/na/?promoid=P79NQL4J&mv=other)
 
-![Adobe Summit](../images/summit_promo.jpg)
+![Adobe Summit](../images/summit_promo.png)
 
 ### Extraordinary growth starts at Summit
 
