@@ -11,6 +11,9 @@
  */
 
 module.exports = {
+  flags: {
+    LOG_AN_ISSUE: false,
+  },
   siteMetadata: {
     home: {
       hidden: true
