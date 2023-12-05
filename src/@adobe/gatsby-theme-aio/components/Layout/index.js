@@ -232,7 +232,7 @@ export default ({ children, pageContext, location }) => {
         console.log(window.location.pathname);
         console.log(ims);
         ims.signIn({
-          redirect_uri: "https://developer-stage.adobe.com/secured/firefly",
+          redirect_uri: "https://developer-stage.adobe.com/firefly-api",
         });
       }
     }
