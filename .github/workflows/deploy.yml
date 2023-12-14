@@ -91,9 +91,6 @@ jobs:
         with:
           cmd: set version stable
 
-      - name: Install musl
-        run: sudo apt-get install -y musl=1.2.2-4 musl-dev=1.2.2-4 musl-tools=1.2.2-4
-
       - name: Install Dependencies
         uses: borales/actions-yarn@v3
         env:
