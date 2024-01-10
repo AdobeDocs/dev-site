@@ -1,12 +1,12 @@
 ---
-title: No access at this time.
-description: Sorry, you don't have access to this Private Beta page.
+title: Sign in required.
+description: Sorry, this page requires to be signed in.
 ---
 
 <Hero slots="heading, text, buttons" variant="fullwidth" theme="lightest"/>
 
-# No access at this time.
+# Sign in required.
 
-Sorry, you don't have access to this Private Beta page.
+Sorry, this page requires to be signed in.
 
 * [Go to homepage](https://developer.adobe.com)
