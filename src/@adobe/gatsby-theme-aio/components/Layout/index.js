@@ -231,9 +231,25 @@ export default ({ children, pageContext, location }) => {
       ) {
         console.log(window.location.pathname);
         console.log(ims);
-        ims.signIn({
-          redirect_uri: "https://developer-stage.adobe.com/firefly-api",
-        });
+
+        (async () => {
+          try {
+            const response = await fetch(window.location.href, {
+              method: "HEAD",
+            });
+
+            const customHeaderValue = response.headers.get("post-sign-in-url");
+
+            // Do something with the custom header value
+            console.log("Custom Header:", customHeaderValue);
+
+            ims.signIn({
+              redirect_uri: `${window.location.hostname}${customHeaderValue ? customHeaderValue : "/"}`,
+            });
+          } catch (error) {
+            console.error("Error fetching headers:", error);
+          }
+        })();
       }
     }
   }, [ims]);
