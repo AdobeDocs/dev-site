@@ -192,6 +192,7 @@ export default ({ children, pageContext, location }) => {
   const [isLoadingIms, setIsLoadingIms] = useState(true);
   // ["index1", "index2", ...]
   const [indexAll, setIndexAll] = useState(false);
+  const [postSigninUrl, setPostSigninUrl] = useState("/");
 
   // Load and initialize IMS
   useEffect(() => {
@@ -222,6 +223,28 @@ export default ({ children, pageContext, location }) => {
   }, []);
 
   useEffect(() => {
+    const checkForCookie = () => {
+      const value = document.cookie
+        .split("; ")
+        .find((row) => row.startsWith("post-sign-in-url="))
+        ?.split("=")[1];
+
+      if (value !== undefined) {
+        setPostSigninUrl(value);
+      } else {
+        // If the cookie is not found, check again after a delay
+        setTimeout(checkForCookie, 1000); // Adjust the delay as needed
+      }
+    };
+
+    // Start checking for the cookie
+    checkForCookie();
+
+    // Clean up any ongoing checks on component unmount
+    return () => clearTimeout();
+  }, []); // Empty dependency array to run the effect only once when the component mounts
+
+  useEffect(() => {
     console.log(ims);
     if (ims) {
       /* Sign in redirect page */
@@ -229,33 +252,12 @@ export default ({ children, pageContext, location }) => {
         window.location.pathname === "/signin/" ||
         window.location.pathname === "/signin.html"
       ) {
-        console.log(window.location.pathname);
-        console.log(ims);
-
-        const getCookie = (name) => {
-          const cookieString = document.cookie;
-          const cookies = cookieString
-            .split(";")
-            .map((cookie) => cookie.trim());
-
-          for (const cookie of cookies) {
-            const [cookieName, cookieValue] = cookie.split("=");
-            if (cookieName === name) {
-              return cookieValue;
-            }
-          }
-
-          return null;
-        };
-
-        // Access the value of a specific cookie
-        const signinRedirectUrl = getCookie("post-sign-in-url");
-
-        ims.signIn({
-          redirect_uri: `${window.location.hostname}${
-            signinRedirectUrl ? signinRedirectUrl : "/"
-          }`,
-        });
+        if (postSigninUrl != "/") {
+          console.log(postSigninUrl, `https://${window.location.host}${postSigninUrl}`);
+          ims.signIn({
+            redirect_uri: `https://${window.location.host}${postSigninUrl}`,
+          });
+        }
       }
     }
   }, [ims]);
