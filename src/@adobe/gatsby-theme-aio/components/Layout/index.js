@@ -232,24 +232,30 @@ export default ({ children, pageContext, location }) => {
         console.log(window.location.pathname);
         console.log(ims);
 
-        (async () => {
-          try {
-            const response = await fetch(window.location.href, {
-              method: "HEAD",
-            });
+        const getCookie = (name) => {
+          const cookieString = document.cookie;
+          const cookies = cookieString
+            .split(";")
+            .map((cookie) => cookie.trim());
 
-            const customHeaderValue = response.headers.get("post-sign-in-url");
-
-            // Do something with the custom header value
-            console.log("Custom Header:", customHeaderValue);
-
-            ims.signIn({
-              redirect_uri: `${window.location.hostname}${customHeaderValue ? customHeaderValue : "/"}`,
-            });
-          } catch (error) {
-            console.error("Error fetching headers:", error);
+          for (const cookie of cookies) {
+            const [cookieName, cookieValue] = cookie.split("=");
+            if (cookieName === name) {
+              return cookieValue;
+            }
           }
-        })();
+
+          return null;
+        };
+
+        // Access the value of a specific cookie
+        const signinRedirectUrl = getCookie("post-sign-in-url");
+
+        ims.signIn({
+          redirect_uri: `${window.location.hostname}${
+            signinRedirectUrl ? signinRedirectUrl : "/"
+          }`,
+        });
       }
     }
   }, [ims]);
