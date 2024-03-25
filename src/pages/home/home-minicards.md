@@ -1,10 +1,10 @@
 <MiniResourceCard slots="image,heading,link" repeat="9" theme="lightest" inRow="3" className="mini-card support-tools index-minicards" />
 
-![Adobe Express](../images/express.png)
+![Adobe Firefly](../images/firefly_appicon.png)
 
-### Adobe Express
+### Adobe Firefly
 
-[Learn More](https://developer.adobe.com/express/)
+[Learn More](https://developer.adobe.com/firefly-services/)
 
 ![Adobe Document Cloud](../images/dc_appicon_64.png)
 
@@ -18,11 +18,11 @@
 
 [Discover](https://developer.adobe.com/experience-platform-apis/)
 
-![Adobe Photoshop API](../images/ps_appicon_64.png)
+![Adobe Express](../images/express.png)
 
-### Adobe Photoshop API
+### Adobe Express
 
-[Learn More](https://developer.adobe.com/photoshop/api/)
+[Learn More](https://developer.adobe.com/express/)
 
 ![Adobe Developer App Builder](../images/experience_platform_appicon_RGB_noshadow_64.png)
 
