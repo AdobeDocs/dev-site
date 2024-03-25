@@ -1,8 +1,8 @@
 <MiniResourceCard slots="image,heading,link" repeat="9" theme="lightest" inRow="3" className="mini-card support-tools index-minicards" />
 
-![Adobe Firefly](../images/firefly_appicon.png)
+![Adobe Firefly Services](../images/firefly_appicon.png)
 
-### Adobe Firefly
+### Adobe Firefly Services
 
 [Learn More](https://developer.adobe.com/firefly-services/)
 
