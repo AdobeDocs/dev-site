@@ -2,32 +2,32 @@
 
 ## Latest Developer News
 
-<ResourceCard slots="link, image, heading, text" width="33%"  theme='lightest' className="useCaseCard index-adobe-developer-live"/>
+<ResourceCard slots="link, image, heading, text" width="33%"  theme='lightest' className="useCaseCard"/>
 
-[](https://summit.adobe.com/na/?promoid=P79NQL4J&mv=other)
+[](https://events.ringcentral.com/events/adobe-developers-live-adobe-express-creative-cloud-2024/registration)
 
-![Adobe Summit](../images/summit_promo.png)
+![Adobe Developers Live](../images/blocky_computer.png)
 
-### Extraordinary growth starts at Summit
+### Adobe Developers Live
 
-Build skills, discover the latest technology innovations and connect with a global community of developers. <br/> <br/> March 26–28, 2024 | Las Vegas and online <br/> March 25, 2024 | Preconference in Las Vegas
+Join us June 19-20 for a 2-day virtual event for Adobe Express and Creative Cloud developers
 
-<ResourceCard slots="link, image, heading, text" width="33%"  theme='lightest' className="useCaseCard index-app-builder" />
+<ResourceCard slots="link, image, heading, text" width="33%"  theme='lightest' className="useCaseCard" />
 
-[](https://developer.adobe.com/app-builder/trial/)
+[](https://developer.adobe.com/fund-for-design)
 
-![App Builder](../images/Try_App_Builder_now_CTA.png)
+![App Builder](../images/fund_for_design.jpg)
 
-### Try App Builder for 30 days for free
+### Adobe Fund for Design
 
-Start building your custom cloud native Adobe app by signing up for our free trial program.
+Get funding to build Adobe Express add-ons — plugins and integrations that unleash the creativity of millions of users.
 
-<ResourceCard slots="link, image, heading, text" width="33%"  theme='lightest' className="useCaseCard index-express" />
+<ResourceCard slots="link, image, heading, text" width="33%"  theme='lightest' className="useCaseCard" />
 
-[](https://developer.adobe.com/commerce/extensibility/)
+[](https://www.adobe.com/max.html#)
 
-![Adobe Express](../images/commerce_extensibility.png)
+![Adobe MAX](../images/max.jpeg)
 
-### Adobe Commerce Extensibility
+### Adobe MAX
 
-Learn how to develop Out-of-Process apps that extend and customize Adobe Commerce.
+Our creativity conference is Oct 14-16 in Miami Beach. Subscribe to our [newsletter](https://www.adobe.com/max.html#max-mailing-list) to be the first to know when registration opens in May.
