@@ -16,7 +16,7 @@ Join us June 19-20 for a 2-day virtual event for Adobe Express and Creative Clou
 
 [](https://developer.adobe.com/fund-for-design)
 
-![App Builder](../images/fund_for_design.jpg)
+![App Builder](../images/fund_for_design.png)
 
 ### Adobe Fund for Design
 
