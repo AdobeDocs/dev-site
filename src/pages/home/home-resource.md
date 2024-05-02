@@ -2,16 +2,6 @@
 
 ## Latest Developer News
 
-<ResourceCard slots="link, image, heading, text" width="33%"  theme='lightest' className="useCaseCard"/>
-
-[](https://events.ringcentral.com/events/adobe-developers-live-adobe-express-creative-cloud-2024/registration)
-
-![Adobe Developers Live](../images/blocky_computer.png)
-
-### Adobe Developers Live
-
-Join us June 19-20 for a 2-day virtual event for Adobe Express and Creative Cloud developers
-
 <ResourceCard slots="link, image, heading, text" width="33%"  theme='lightest' className="useCaseCard" />
 
 [](https://developer.adobe.com/fund-for-design)
@@ -21,6 +11,16 @@ Join us June 19-20 for a 2-day virtual event for Adobe Express and Creative Clou
 ### Adobe Fund for Design
 
 Get funding to build Adobe Express add-ons — plugins and integrations that unleash the creativity of millions of users.
+
+<ResourceCard slots="link, image, heading, text" width="33%"  theme='lightest' className="useCaseCard"/>
+
+[](https://events.ringcentral.com/events/adobe-developers-live-adobe-express-creative-cloud-2024/registration)
+
+![Adobe Developers Live](../images/blocky_computer.png)
+
+### Adobe Developers Live
+
+Join us June 19-20 for a 2-day virtual event for Adobe Express and Creative Cloud developers
 
 <ResourceCard slots="link, image, heading, text" width="33%"  theme='lightest' className="useCaseCard" />
 
