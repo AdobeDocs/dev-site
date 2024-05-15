@@ -45,7 +45,7 @@ module.exports = {
           },
           {
             title: 'Community Forums',
-            path: 'https://adobe.com/communities/index.html'
+            path: 'https://community.adobe.com/'
           },
           {
             title: 'C++ at Adobe',
