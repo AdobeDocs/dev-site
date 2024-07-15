@@ -23,12 +23,10 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Setup Node
+      - name: Setup Node v16 for Yarn v3
         uses: actions/setup-node@v3
         with:
-          node-version-file: ".nvmrc"
-          cache: "yarn"
-          cache-dependency-path: "yarn.lock"
+          node-version: "16.15.0" # Current LTS version
 
       - name: Enable Corepack for Yarn
         run: corepack enable
