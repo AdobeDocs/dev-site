@@ -1,3 +1,7 @@
+---
+noIndex: true
+---
+
 <TitleBlock slots="heading" theme="lightest" />
 
 ## Latest Developer News
