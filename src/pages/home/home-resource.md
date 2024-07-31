@@ -28,7 +28,7 @@ Build add-ons to extend the functionality of Adobe Express and unlock new creati
 
 <ResourceCard slots="link, image, heading, text" width="33%"  theme='lightest' className="useCaseCard" />
 
-[](https://max.adobe.com/pricing/)
+[](https://max.adobe.com/)
 
 ![Adobe MAX](../images/max.jpeg)
 
