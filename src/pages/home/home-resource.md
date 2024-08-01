@@ -18,20 +18,21 @@ Get funding to build Adobe Express add-ons — plugins and integrations that unl
 
 <ResourceCard slots="link, image, heading, text" width="33%"  theme='lightest' className="useCaseCard"/>
 
-[](https://events.ringcentral.com/events/adobe-developers-live-adobe-express-creative-cloud-2024/registration)
+[](https://developer.adobe.com/express/add-ons/)
 
-![Adobe Developers Live](../images/blocky_computer.png)
+![Express Add-Ons](../images/Express_AddOns.jpg)
 
-### Adobe Developers Live
+### Make building add-ons your superpower
 
-Join us June 19-20 for a 2-day virtual event for Adobe Express and Creative Cloud developers
+Build add-ons to extend the functionality of Adobe Express and unlock new creative workflows for users.
 
 <ResourceCard slots="link, image, heading, text" width="33%"  theme='lightest' className="useCaseCard" />
 
-[](https://www.adobe.com/max.html#)
+[](https://max.adobe.com/)
 
 ![Adobe MAX](../images/max.jpeg)
 
 ### Adobe MAX
 
-Our creativity conference is Oct 14-16 in Miami Beach. Subscribe to our [newsletter](https://www.adobe.com/max.html#max-mailing-list) to be the first to know when registration opens in May.
+Oct 14-16 Miami Beach and Online.  
+Register Now.
