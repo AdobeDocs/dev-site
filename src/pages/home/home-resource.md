@@ -10,7 +10,7 @@ noIndex: true
 
 [](https://developerevents.adobe.com/events/details/adobe-developer-events-developer-experience-presents-adobe-developers-live-2024/?utm_source=devsite&utm_medium=website&utm_campaign=adl2024)
 
-![App Builder](../images/developers_live.png)
+![App Builder](../images/developerlive.png)
 
 ### Adobe Developers Live
 
