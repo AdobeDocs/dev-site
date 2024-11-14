@@ -8,14 +8,13 @@ noIndex: true
 
 <ResourceCard slots="link, image, heading, text" width="33%"  theme='lightest' className="useCaseCard" />
 
-[](https://developerevents.adobe.com/events/details/adobe-developer-events-developer-experience-presents-adobe-developers-live-2024/?utm_source=devsite&utm_medium=website&utm_campaign=adl2024)
+[](https://developer.adobe.com/compliance/)
 
-![App Builder](../images/developerlive.png)
+![App Builder](../images/compliance.png)
 
-### Adobe Developers Live
+### Adobe DSA Compliance
 
-Nov 12, 2024 | San Jose & Online  
-Join AEM and Commerce developers for exclusive insights and innovations. Register now!
+Get insights on Adobe's compliance with the European Union's (EU) Digital Services Act (DSA)
 
 <ResourceCard slots="link, image, heading, text" width="33%"  theme='lightest' className="useCaseCard"/>
 
@@ -33,7 +32,6 @@ Build add-ons to extend the functionality of Adobe Express and unlock new creati
 
 ![Adobe MAX](../images/max.jpeg)
 
-### Adobe MAX
+### Adobe MAX. See what you missed.
 
-Oct 14-16 Miami Beach and Online.  
-Register Now.
+Watch MAX on demand for the latest industry innovations, product tips and techniques, and new ways to ignite your imagination.
