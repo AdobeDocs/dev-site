@@ -11,11 +11,23 @@
  */
 
 const isBrowser = typeof window !== "undefined";
+
+export const onClientEntry = () => {
+  if (isBrowser) {
+    window.alloy_all = window.alloy_all || {};
+    window.alloy_all.data = window.alloy_all.data || {};
+    window.alloy_all.data._adobe_corpnew = window.alloy_all.data._adobe_corpnew || {};
+    window.alloy_all.data._adobe_corpnew = window.alloy_all.data._adobe_corpnew || {};
+    window.alloy_all.data._adobe_corpnew.web = window.alloy_all.data._adobe_corpnew.web || {};
+    window.alloy_all.data._adobe_corpnew.web.webPageDetails = window.alloy_all.data._adobe_corpnew.web.webPageDetails || {};
+  }
+};
+
 export const onRouteUpdate = ({ location, prevLocation }) => {
   if (isBrowser) {
     document.querySelector("header").setAttribute("daa-lh", "header");
-    document.querySelectorAll("header a").forEach((headerLink)=>{
-      if(headerLink.innerText !== ''){
+    document.querySelectorAll("header a").forEach((headerLink) => {
+      if (headerLink.innerText !== '') {
         headerLink.setAttribute("daa-ll", headerLink.innerText);
       }
     });
@@ -121,6 +133,29 @@ export const onRouteUpdate = ({ location, prevLocation }) => {
         .forEach(link => {
           link.setAttribute("daa-ll", link.textContent.trim());
         });
+    }
+
+    if (typeof _satellite !== "undefined") {
+      console.log(`route tracking page name as: ${location.href}`);
+
+      // eslint-disable-next-line no-undef
+      //_satellite.track('pageload')
+
+      // eslint-disable-next-line no-undef
+      _satellite.track('state',
+        {
+          xdm: {},
+          data: {
+            _adobe_corpnew: {
+              web: {
+                webPageDetails: {
+                  customPageName: location.href
+                }
+              }
+            }
+          }
+        }
+      );
     }
   }
 };
