@@ -33,9 +33,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@adobe/gatsby-theme-aio@npm:4.16.0-rc13":
-  version: 4.16.0-rc13
-  resolution: "@adobe/gatsby-theme-aio@npm:4.16.0-rc13"
+"@adobe/gatsby-theme-aio@npm:4.16.0-rc14":
+  version: 4.16.0-rc14
+  resolution: "@adobe/gatsby-theme-aio@npm:4.16.0-rc14"
   dependencies:
     "@adobe/focus-ring-polyfill": ^0.1.5
     "@adobe/gatsby-source-github-file-contributors": ^0.3.1
@@ -81,6 +81,7 @@ __metadata:
     classnames: ^2.3.2
     core-js: ^3.25.1
     file-saver: ^2.0.5
+    gatsby-plugin-adobe-aep: ^1.0.0
     gatsby-plugin-algolia: ^0.26.0
     gatsby-plugin-emotion: ^7.23.0
     gatsby-plugin-layout: ^3.23.0
@@ -131,7 +132,7 @@ __metadata:
     gatsby: ^4.22.0
     react: ^17.0.2
     react-dom: ^17.0.2
-  checksum: 5bd5d7936404a626055d87fe1be74b96201592d0cf317f42c135f21a005c4622d25e7a3b289ac46baf5ded16522c7fa9d315f1d588bb4c3c29c8d74d714f7a7a
+  checksum: 03185a00bc3f70db24445d2e818fd23fe1efeb57c271f533573b90ed2f4daecd931cc9c052b93dcb3f884fdfb4c82fd346517d966ae80e98d48eab92361e15be
   languageName: node
   linkType: hard
 
@@ -8232,7 +8233,7 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "dev-site@workspace:."
   dependencies:
-    "@adobe/gatsby-theme-aio": 4.16.0-rc13
+    "@adobe/gatsby-theme-aio": 4.16.0-rc14
     gatsby: 4.22.0
     react: ^17.0.2
     react-dom: ^17.0.2
@@ -8607,9 +8608,9 @@ __metadata:
   linkType: hard
 
 "electron-to-chromium@npm:^1.5.73":
-  version: 1.5.105
-  resolution: "electron-to-chromium@npm:1.5.105"
-  checksum: 21a7a080140567b347d97fcc6c7f96c0d9e7effe6b9f8b395126a54f556732e08feb74b3aca8c65bb600b4160c9d9b6c1e1ac024f850645994d3cf3cdf81e01f
+  version: 1.5.106
+  resolution: "electron-to-chromium@npm:1.5.106"
+  checksum: fefa0aac9383986cc920045aa64dcd87fb77a97f19bc5fb7d52d3d1499752e94a8e48228cb61ba92239bb1c1271a4bfb3a4700d7a303bcb896ae725b0ad5bfd5
   languageName: node
   linkType: hard
 
@@ -10371,6 +10372,13 @@ __metadata:
   peerDependencies:
     "@parcel/core": ^2.0.0
   checksum: d0974295e68be943669dcb5c1f5ee5690c8b04eb46e928298b46e4c36c4f21c9cf2ce54684650838125f7878bdfc0db1033f12bfa1d0991b2cda3bb921f057f9
+  languageName: node
+  linkType: hard
+
+"gatsby-plugin-adobe-aep@npm:^1.0.0":
+  version: 1.0.0
+  resolution: "gatsby-plugin-adobe-aep@npm:1.0.0"
+  checksum: 14505afe1ca3b0c6b3cd32b1618a5929c2cafb88d28a8eacd53915c631c2256551ee0ff98eb932b1f07c1aa90526d53aa6b8a3c2b4260cdc38bd0b3f19365deb
   languageName: node
   linkType: hard
 
@@ -14855,8 +14863,8 @@ __metadata:
   linkType: hard
 
 "minipass-fetch@npm:^4.0.0":
-  version: 4.0.0
-  resolution: "minipass-fetch@npm:4.0.0"
+  version: 4.0.1
+  resolution: "minipass-fetch@npm:4.0.1"
   dependencies:
     encoding: ^0.1.13
     minipass: ^7.0.3
@@ -14865,7 +14873,7 @@ __metadata:
   dependenciesMeta:
     encoding:
       optional: true
-  checksum: 7d59a31011ab9e4d1af6562dd4c4440e425b2baf4c5edbdd2e22fb25a88629e1cdceca39953ff209da504a46021df520f18fd9a519f36efae4750ff724ddadea
+  checksum: 3dfca705ce887ca9ff14d73e8d8593996dea1a1ecd8101fdbb9c10549d1f9670bc8fb66ad0192769ead4c2dc01b4f9ca1cf567ded365adff17827a303b948140
   languageName: node
   linkType: hard
 
@@ -19644,9 +19652,9 @@ __metadata:
   linkType: hard
 
 "strnum@npm:^1.1.1":
-  version: 1.1.1
-  resolution: "strnum@npm:1.1.1"
-  checksum: 1be70c6ec3793a43d6cd7c58180377fad8b7cf6356276b4dfa22164c2b2105fe0be50624266769230006331dc0058618fbc03de0d4ad9443e99377cc286580f4
+  version: 1.1.2
+  resolution: "strnum@npm:1.1.2"
+  checksum: a85219eda13e97151c95e343a9e5960eacfb0a0ff98104b4c9cb7a212e3008bddf0c9714c9c37c2e508be78e741a04afc80027c2dc18509d1b5ffd4c37191fc2
   languageName: node
   linkType: hard
 
