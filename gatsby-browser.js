@@ -23,6 +23,19 @@ export const onClientEntry = () => {
   }
 };
 
+const createObservable = (obj, callback) => {
+  return new Proxy(obj, {
+    set(target, property, value) {
+      const oldValue = target[property];
+      target[property] = value;
+      if (value !== oldValue) {
+          callback(property, value, oldValue);
+      }
+      return true;
+    }
+  });
+}
+
 export const onRouteUpdate = ({ location, prevLocation }) => {
   if (isBrowser) {
     document.querySelector("header").setAttribute("daa-lh", "header");
@@ -147,27 +160,38 @@ export const onRouteUpdate = ({ location, prevLocation }) => {
         });
     }
 
+    // eslint-disable-next-line no-undef
+    _satellite = _satellite || {};
+
+    // eslint-disable-next-line no-undef
+    const satelliteWatcher = createObservable(_satellite, (property, newValue, oldValue) => {
+      console.log(`Property "${property}" changed from "${oldValue}" to "${newValue}"`);
+    });
+
     if (typeof _satellite !== "undefined") {
       console.log(`route tracking page name as: ${location.href}`);
 
       // eslint-disable-next-line no-undef
       //_satellite.track('pageload')
 
-      // eslint-disable-next-line no-undef
-      _satellite.track('state',
-        {
-          xdm: {},
-          data: {
-            _adobe_corpnew: {
-              web: {
-                webPageDetails: {
-                  customPageName: location.href
+      setTimeout(() => {
+        // eslint-disable-next-line no-undef
+        _satellite.track('state',
+          {
+            xdm: {},
+            data: {
+              _adobe_corpnew: {
+                web: {
+                  webPageDetails: {
+                    customPageName: location.href
+                  }
                 }
               }
             }
           }
-        }
-      );
+        );
+      }, 32)
+      
     }
   }
 };
