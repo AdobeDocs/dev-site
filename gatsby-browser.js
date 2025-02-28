@@ -14,6 +14,7 @@ const isBrowser = typeof window !== "undefined";
 
 export const onClientEntry = () => {
   if (isBrowser) {
+    window._satellite = window._satellite || {};
     window.alloy_all = window.alloy_all || {};
     window.alloy_all.data = window.alloy_all.data || {};
     window.alloy_all.data._adobe_corpnew = window.alloy_all.data._adobe_corpnew || {};
@@ -23,18 +24,14 @@ export const onClientEntry = () => {
   }
 };
 
-const createObservable = (obj, callback) => {
-  return new Proxy(obj, {
-    set(target, property, value) {
-      const oldValue = target[property];
-      target[property] = value;
-      if (value !== oldValue) {
-          callback(property, value, oldValue);
-      }
-      return true;
-    }
-  });
-}
+const handler = {
+  set: function(target, property, value) {
+    console.log(`Global variable "${property}" changed from ${target[property]} to ${value}`);
+    target[property] = value;
+    return true;
+  }
+};
+
 
 export const onRouteUpdate = ({ location, prevLocation }) => {
   if (isBrowser) {
@@ -161,37 +158,33 @@ export const onRouteUpdate = ({ location, prevLocation }) => {
     }
 
     // eslint-disable-next-line no-undef
-    _satellite = _satellite || {};
+    const monitoredGlobal = new Proxy({ value: window._satellite }, handler);
 
-    // eslint-disable-next-line no-undef
-    const satelliteWatcher = createObservable(_satellite, (property, newValue, oldValue) => {
-      console.log(`Property "${property}" changed from "${oldValue}" to "${newValue}"`);
-    });
 
-    if (typeof _satellite !== "undefined") {
-      console.log(`route tracking page name as: ${location.href}`);
+    // if (typeof _satellite !== "undefined") {
+    //   console.log(`route tracking page name as: ${location.href}`);
 
-      // eslint-disable-next-line no-undef
-      //_satellite.track('pageload')
+    //   // eslint-disable-next-line no-undef
+    //   //_satellite.track('pageload')
 
-      setTimeout(() => {
-        // eslint-disable-next-line no-undef
-        _satellite.track('state',
-          {
-            xdm: {},
-            data: {
-              _adobe_corpnew: {
-                web: {
-                  webPageDetails: {
-                    customPageName: location.href
-                  }
-                }
-              }
-            }
-          }
-        );
-      }, 32)
+    //   setTimeout(() => {
+    //     // eslint-disable-next-line no-undef
+    //     _satellite.track('state',
+    //       {
+    //         xdm: {},
+    //         data: {
+    //           _adobe_corpnew: {
+    //             web: {
+    //               webPageDetails: {
+    //                 customPageName: location.href
+    //               }
+    //             }
+    //           }
+    //         }
+    //       }
+    //     );
+    //   }, 32)
       
-    }
+    //}
   }
 };
