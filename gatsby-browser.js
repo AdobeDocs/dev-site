@@ -24,15 +24,6 @@ export const onClientEntry = () => {
   }
 };
 
-const handler = {
-  set: function(target, property, value) {
-    console.log(`Global variable "${property}" changed from ${target[property]} to ${value}`);
-    target[property] = value;
-    return true;
-  }
-};
-
-
 export const onRouteUpdate = ({ location, prevLocation }) => {
   if (isBrowser) {
     document.querySelector("header").setAttribute("daa-lh", "header");
@@ -157,9 +148,6 @@ export const onRouteUpdate = ({ location, prevLocation }) => {
         });
     }
 
-    // eslint-disable-next-line no-undef
-    const monitoredGlobal = new Proxy({ value: window._satellite }, handler);
-
     function watchVariable() {
       // eslint-disable-next-line no-undef
       if (typeof window._satellite === 'undefined') {
@@ -167,6 +155,23 @@ export const onRouteUpdate = ({ location, prevLocation }) => {
       } else {
         // eslint-disable-next-line no-undef
         console.log('myVariable is now defined:', window._satellite);
+
+        // eslint-disable-next-line no-undef
+        _satellite.track('state',
+          {
+            xdm: {},
+            data: {
+              _adobe_corpnew: {
+                web: {
+                  webPageDetails: {
+                    customPageName: location.href
+                  }
+                }
+              }
+            }
+          }
+        );
+
         clearInterval(intervalId);
       }
     }
@@ -175,30 +180,5 @@ export const onRouteUpdate = ({ location, prevLocation }) => {
     const intervalId = setInterval(watchVariable, 1000); // Check every 1000ms (1 second)
     
 
-    // if (typeof _satellite !== "undefined") {
-    //   console.log(`route tracking page name as: ${location.href}`);
-
-    //   // eslint-disable-next-line no-undef
-    //   //_satellite.track('pageload')
-
-    //   setTimeout(() => {
-    //     // eslint-disable-next-line no-undef
-    //     _satellite.track('state',
-    //       {
-    //         xdm: {},
-    //         data: {
-    //           _adobe_corpnew: {
-    //             web: {
-    //               webPageDetails: {
-    //                 customPageName: location.href
-    //               }
-    //             }
-    //           }
-    //         }
-    //       }
-    //     );
-    //   }, 32)
-      
-    //}
   }
 };
