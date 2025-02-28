@@ -160,6 +160,20 @@ export const onRouteUpdate = ({ location, prevLocation }) => {
     // eslint-disable-next-line no-undef
     const monitoredGlobal = new Proxy({ value: window._satellite }, handler);
 
+    function watchVariable() {
+      // eslint-disable-next-line no-undef
+      if (typeof window._satellite === 'undefined') {
+        console.log('myVariable is currently undefined');
+      } else {
+        // eslint-disable-next-line no-undef
+        console.log('myVariable is now defined:', window._satellite);
+        clearInterval(intervalId);
+      }
+    }
+    
+    // Call watchVariable periodically, for example, using setInterval
+    const intervalId = setInterval(watchVariable, 1000); // Check every 1000ms (1 second)
+    
 
     // if (typeof _satellite !== "undefined") {
     //   console.log(`route tracking page name as: ${location.href}`);
