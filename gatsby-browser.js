@@ -133,6 +133,18 @@ export const onRouteUpdate = ({ location, prevLocation }) => {
         .forEach(link => {
           link.setAttribute("daa-ll", link.textContent.trim());
         });
+
+      document
+        .querySelectorAll(".useCaseCard a")
+        .forEach(link => {
+          link.setAttribute("daa-ll", link.textContent.trim());
+        });
+
+      document
+        .querySelectorAll("footer a")
+        .forEach(link => {
+          link.setAttribute("daa-ll", link.textContent.trim());
+        });
     }
 
     if (typeof _satellite !== "undefined") {
