@@ -33,9 +33,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@adobe/gatsby-theme-aio@npm:4.16.0-rc14":
-  version: 4.16.0-rc14
-  resolution: "@adobe/gatsby-theme-aio@npm:4.16.0-rc14"
+"@adobe/gatsby-theme-aio@npm:4.16.0-rc13":
+  version: 4.16.0-rc13
+  resolution: "@adobe/gatsby-theme-aio@npm:4.16.0-rc13"
   dependencies:
     "@adobe/focus-ring-polyfill": ^0.1.5
     "@adobe/gatsby-source-github-file-contributors": ^0.3.1
@@ -81,7 +81,6 @@ __metadata:
     classnames: ^2.3.2
     core-js: ^3.25.1
     file-saver: ^2.0.5
-    gatsby-plugin-adobe-aep: ^1.0.0
     gatsby-plugin-algolia: ^0.26.0
     gatsby-plugin-emotion: ^7.23.0
     gatsby-plugin-layout: ^3.23.0
@@ -132,7 +131,7 @@ __metadata:
     gatsby: ^4.22.0
     react: ^17.0.2
     react-dom: ^17.0.2
-  checksum: 03185a00bc3f70db24445d2e818fd23fe1efeb57c271f533573b90ed2f4daecd931cc9c052b93dcb3f884fdfb4c82fd346517d966ae80e98d48eab92361e15be
+  checksum: 5bd5d7936404a626055d87fe1be74b96201592d0cf317f42c135f21a005c4622d25e7a3b289ac46baf5ded16522c7fa9d315f1d588bb4c3c29c8d74d714f7a7a
   languageName: node
   linkType: hard
 
@@ -8233,7 +8232,7 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "dev-site@workspace:."
   dependencies:
-    "@adobe/gatsby-theme-aio": 4.16.0-rc14
+    "@adobe/gatsby-theme-aio": 4.16.0-rc13
     gatsby: 4.22.0
     react: ^17.0.2
     react-dom: ^17.0.2
@@ -8608,9 +8607,9 @@ __metadata:
   linkType: hard
 
 "electron-to-chromium@npm:^1.5.73":
-  version: 1.5.106
-  resolution: "electron-to-chromium@npm:1.5.106"
-  checksum: fefa0aac9383986cc920045aa64dcd87fb77a97f19bc5fb7d52d3d1499752e94a8e48228cb61ba92239bb1c1271a4bfb3a4700d7a303bcb896ae725b0ad5bfd5
+  version: 1.5.109
+  resolution: "electron-to-chromium@npm:1.5.109"
+  checksum: 46f71d384f46ead83550027358a45b58370fb243459c347910557ee8d2530637157b54192c702b9adf2bc5c436a8ec2bd3f2da4b3f8e1810aca1becd38c26ba3
   languageName: node
   linkType: hard
 
@@ -10372,13 +10371,6 @@ __metadata:
   peerDependencies:
     "@parcel/core": ^2.0.0
   checksum: d0974295e68be943669dcb5c1f5ee5690c8b04eb46e928298b46e4c36c4f21c9cf2ce54684650838125f7878bdfc0db1033f12bfa1d0991b2cda3bb921f057f9
-  languageName: node
-  linkType: hard
-
-"gatsby-plugin-adobe-aep@npm:^1.0.0":
-  version: 1.0.0
-  resolution: "gatsby-plugin-adobe-aep@npm:1.0.0"
-  checksum: 14505afe1ca3b0c6b3cd32b1618a5929c2cafb88d28a8eacd53915c631c2256551ee0ff98eb932b1f07c1aa90526d53aa6b8a3c2b4260cdc38bd0b3f19365deb
   languageName: node
   linkType: hard
 
@@ -16936,9 +16928,9 @@ __metadata:
   linkType: hard
 
 "preact@npm:^10.11.0":
-  version: 10.26.2
-  resolution: "preact@npm:10.26.2"
-  checksum: 6d477020951d9e08990da7307bc0ca7767291b0f8ec211faf0f755ef800855b0d7f8976b7d903b9c37d0dd192c800b8f2e3bfa29736f078e06e475c65f24753a
+  version: 10.26.3
+  resolution: "preact@npm:10.26.3"
+  checksum: 4306fb0e13af39cc263adaec5fcc68ffea9aba714e81a72b70f5b2a6803fe27caaab0fa39198f23926647d22b79491cf3101016fc5fc34be0da6ffe6fe61fafb
   languageName: node
   linkType: hard
 
@@ -19912,8 +19904,8 @@ __metadata:
   linkType: hard
 
 "terser-webpack-plugin@npm:^5.2.4, terser-webpack-plugin@npm:^5.3.11":
-  version: 5.3.11
-  resolution: "terser-webpack-plugin@npm:5.3.11"
+  version: 5.3.12
+  resolution: "terser-webpack-plugin@npm:5.3.12"
   dependencies:
     "@jridgewell/trace-mapping": ^0.3.25
     jest-worker: ^27.4.5
@@ -19929,7 +19921,7 @@ __metadata:
       optional: true
     uglify-js:
       optional: true
-  checksum: c84c005d4041ad2e2eed0c9059b52a50ffd27f1e2afca7d34864a2b4b2bb1295405bc7578eeb25bae732e358339954d8cb6fbf6d83df52e8aa9333e8bf409ebe
+  checksum: 7e33658f5f096547bd4bcdfa2d1d5ab4e87fe4b9aa65b4086f30049b69e7a4edb267635960788f694f37bf99228b9e270b255b4831213342b177df8a49b6f8c1
   languageName: node
   linkType: hard
 
