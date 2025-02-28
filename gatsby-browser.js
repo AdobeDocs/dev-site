@@ -154,7 +154,8 @@ export const onRouteUpdate = ({ location, prevLocation }) => {
         console.log('myVariable is currently undefined');
       } else {
         // eslint-disable-next-line no-undef
-        console.log('myVariable is now defined:', window._satellite);
+        console.log('_satellite is now defined:', window._satellite);
+        console.log(`route tracking page name as: ${location.href}`);
 
         // eslint-disable-next-line no-undef
         _satellite.track('state',
