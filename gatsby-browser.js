@@ -26,13 +26,6 @@ export const onClientEntry = () => {
 
 export const onRouteUpdate = ({ location, prevLocation }) => {
   if (isBrowser) {
-    document.querySelector("header").setAttribute("daa-lh", "header");
-    document.querySelectorAll("header a").forEach((headerLink) => {
-      if (headerLink.innerText !== '') {
-        headerLink.setAttribute("daa-ll", headerLink.innerText);
-      }
-    });
-
     // check if on localhost or deployed somewhere
     if (window.location.pathname === "/") {
       document
@@ -137,12 +130,6 @@ export const onRouteUpdate = ({ location, prevLocation }) => {
 
       document
         .querySelectorAll(".useCaseCard a")
-        .forEach(link => {
-          link.setAttribute("daa-ll", link.textContent.trim());
-        });
-
-      document
-        .querySelectorAll("footer a")
         .forEach(link => {
           link.setAttribute("daa-ll", link.textContent.trim());
         });
