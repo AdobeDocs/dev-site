@@ -11,15 +11,21 @@
  */
 
 const isBrowser = typeof window !== "undefined";
+
+export const onClientEntry = () => {
+  if (isBrowser) {
+    window._satellite = window._satellite || {};
+    window.alloy_all = window.alloy_all || {};
+    window.alloy_all.data = window.alloy_all.data || {};
+    window.alloy_all.data._adobe_corpnew = window.alloy_all.data._adobe_corpnew || {};
+    window.alloy_all.data._adobe_corpnew = window.alloy_all.data._adobe_corpnew || {};
+    window.alloy_all.data._adobe_corpnew.web = window.alloy_all.data._adobe_corpnew.web || {};
+    window.alloy_all.data._adobe_corpnew.web.webPageDetails = window.alloy_all.data._adobe_corpnew.web.webPageDetails || {};
+  }
+};
+
 export const onRouteUpdate = ({ location, prevLocation }) => {
   if (isBrowser) {
-    document.querySelector("header").setAttribute("daa-lh", "header");
-    document.querySelectorAll("header a").forEach((headerLink)=>{
-      if(headerLink.innerText !== ''){
-        headerLink.setAttribute("daa-ll", headerLink.innerText);
-      }
-    });
-
     // check if on localhost or deployed somewhere
     if (window.location.pathname === "/") {
       document
@@ -121,6 +127,46 @@ export const onRouteUpdate = ({ location, prevLocation }) => {
         .forEach(link => {
           link.setAttribute("daa-ll", link.textContent.trim());
         });
+
+      document
+        .querySelectorAll(".useCaseCard a")
+        .forEach(link => {
+          link.setAttribute("daa-ll", link.textContent.trim());
+        });
     }
+
+    function watchVariable() {
+      // eslint-disable-next-line no-undef
+      if (typeof window._satellite === 'undefined') {
+        console.log('myVariable is currently undefined');
+      } else {
+        // eslint-disable-next-line no-undef
+        console.log('_satellite is now defined:', window._satellite);
+        console.log(`route tracking page name as: ${location.href}`);
+
+        // eslint-disable-next-line no-undef
+        _satellite.track('state',
+          {
+            xdm: {},
+            data: {
+              _adobe_corpnew: {
+                web: {
+                  webPageDetails: {
+                    customPageName: location.href
+                  }
+                }
+              }
+            }
+          }
+        );
+
+        clearInterval(intervalId);
+      }
+    }
+    
+    // Call watchVariable periodically, for example, using setInterval
+    const intervalId = setInterval(watchVariable, 1000); // Check every 1000ms (1 second)
+    
+
   }
 };
