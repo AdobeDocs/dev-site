@@ -13,6 +13,7 @@
 const isBrowser = typeof window !== "undefined";
 
 export const onClientEntry = () => {
+  // set adobe analytics window object
   if (isBrowser) {
     window._satellite = window._satellite || {};
     window.alloy_all = window.alloy_all || {};
@@ -135,15 +136,9 @@ export const onRouteUpdate = ({ location, prevLocation }) => {
         });
     }
 
-    function watchVariable() {
+    function watchAndFireAnalytics() {
       // eslint-disable-next-line no-undef
-      if (typeof window._satellite === 'undefined') {
-        console.log('myVariable is currently undefined');
-      } else {
-        // eslint-disable-next-line no-undef
-        console.log('_satellite is now defined:', window._satellite);
-        console.log(`route tracking page name as: ${location.href}`);
-
+      if (typeof window._satellite !== 'undefined') {
         // eslint-disable-next-line no-undef
         _satellite.track('state',
           {
@@ -163,10 +158,8 @@ export const onRouteUpdate = ({ location, prevLocation }) => {
         clearInterval(intervalId);
       }
     }
-    
-    // Call watchVariable periodically, for example, using setInterval
-    const intervalId = setInterval(watchVariable, 1000); // Check every 1000ms (1 second)
-    
 
+    // watch if analytics is online then track page
+    const intervalId = setInterval(watchAndFireAnalytics, 1000);
   }
 };
