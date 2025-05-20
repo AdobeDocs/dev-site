@@ -8,7 +8,7 @@ noIndex: true
 
 ### Adobe Firefly Services
 
-[Learn More](https://developer.adobe.com/firefly-services/)
+[Learn More](https://developer.adobe.com/firefly-services/docs/guides/)
 
 ![Adobe Document Cloud](../images/dc_appicon_64.png)
 

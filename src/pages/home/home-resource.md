@@ -28,10 +28,10 @@ Build add-ons to extend the functionality of Adobe Express and unlock new creati
 
 <ResourceCard slots="link, image, heading, text" width="33%"  theme='lightest' className="useCaseCard" />
 
-[](https://max.adobe.com/)
+[](https://events.ringcentral.com/events/adobe-developers-live-2025-code-connect-grow-your-business?utm_source=developer.adobe.com&utm_campaign=developer.adobe.com)
 
-![Adobe MAX](../images/max.jpeg)
+![Adobe MAX](../images/DevLive_Jun2025.png)
 
-### Adobe MAX. See what you missed.
+### Developers Live. June 24-25, 2025.
 
-Watch MAX on demand for the latest industry innovations, product tips and techniques, and new ways to ignite your imagination.
+Join our free virtual conference to learn about Adobe Express and Creative Cloud
