@@ -28,8 +28,8 @@ module.exports = {
         title: 'Community',
         menu: [
           {
-            title: 'Tech Blog',
-            path: 'https://medium.com/adobetech'
+            title: 'Adobe Developers Blog',
+            path: 'https://blog.developer.adobe.com/'
           },
           {
             title: 'Open Source at Adobe',
