@@ -8,13 +8,15 @@ noIndex: true
 
 <ResourceCard slots="link, image, heading, text" width="33%"  theme='lightest' className="useCaseCard" />
 
-[](https://developer.adobe.com/compliance/)
+[](https://www.aem.live/developers-live?utm_source=devsite&utm_medium=websiteutm_campaign=adl2025)
 
-![App Builder](../images/compliance.png)
+![Adobe Developers Live](../images/Developers_Live_Banner_Agentic.png)
 
-### Adobe DSA Compliance
+### Adobe Developers Live
 
-Get insights on Adobe's compliance with the European Union's (EU) Digital Services Act (DSA)
+Adobe Developers Live  
+Nov 10-12, 2025 | San Jose & Online  
+Join AEM and Commerce developers to explore AI, extensibility, and Building the Agentic Web. Register now!
 
 <ResourceCard slots="link, image, heading, text" width="33%"  theme='lightest' className="useCaseCard"/>
 
@@ -28,10 +30,10 @@ Build add-ons to extend the functionality of Adobe Express and unlock new creati
 
 <ResourceCard slots="link, image, heading, text" width="33%"  theme='lightest' className="useCaseCard" />
 
-[](https://events.ringcentral.com/events/adobe-developers-live-2025-code-connect-grow-your-business?utm_source=developer.adobe.com&utm_campaign=developer.adobe.com)
+[](https://youtube.com/playlist?list=PLcVEYUqU7VRc7EgPijKHLu21jnIDENB2V&si=5C7PpSS-NUKQe62Y)
 
 ![Adobe MAX](../images/DevLive_Jun2025.png)
 
-### Developers Live. June 24-25, 2025.
+### Adobe Developers Live Replay
 
-Join our free virtual conference to learn about Adobe Express and Creative Cloud
+Watch the recordings from the Adobe Express and Creative Cloud Adobe Developers Live, our virtual conference we hosted June 24-25, 2025.

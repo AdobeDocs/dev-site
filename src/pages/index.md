@@ -23,6 +23,7 @@ import HomeMiniCards from './home/home-minicards.md';
 Adobe products and services empower developers
 
 * [Explore our APIs](/apis)
+* [Explore our MCPs](/ai)
 
 <TitleBlock slots="heading" theme="lightest" className="Get-started-building"/>
 
@@ -54,7 +55,7 @@ See what Adobe Developers have created on the [Adobe Exchange Marketplace](http:
 
 ![](./images/home-illustration3.png)
 
-Never miss a story from the [Adobe Tech Blog](http://blog.developer.adobe.com/)
+Never miss a story from the [Adobe Developers Blog](http://blog.developer.adobe.com/)
 
 <WrapperComponent slots="content" repeat="1" theme="lightest" className="Use-cases-for-Adobe-Document-Services"/>
 
@@ -62,4 +63,4 @@ Never miss a story from the [Adobe Tech Blog](http://blog.developer.adobe.com/)
 
 <TextBlock slots="buttons" isCentered theme="lightest"  className='Use-cases-for-Adobe-Document-Services home-news-button index-learn-more'/>
 
-* [Learn More](/news)
+* [Learn More](https://blog.developer.adobe.com/)
