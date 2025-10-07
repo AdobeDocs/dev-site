@@ -86,10 +86,10 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v3
 
-      - name: Setup Node v16 for Yarn v3
+      - name: Setup Node v20 for Yarn v3
         uses: actions/setup-node@v3
         with:
-          node-version: "16.15.0" # Current LTS version
+          node-version: "20.19.5" # Current LTS version
 
       - name: Enable Corepack for Yarn v3
         run: corepack enable
@@ -190,10 +190,10 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v3
 
-      - name: Setup Node v16 for Yarn v3
+      - name: Setup Node v20 for Yarn v3
         uses: actions/setup-node@v3
         with:
-          node-version: "16.15.0" # Current LTS version
+          node-version: "20.19.5" # Current LTS version
 
       - name: Enable Corepack for Yarn v3
         run: corepack enable
@@ -202,7 +202,7 @@ jobs:
         uses: borales/actions-yarn@v3
         with:
           cmd: set version stable
-        
+
       - name: Install Dependencies
         uses: borales/actions-yarn@v3
         env:
@@ -251,7 +251,7 @@ jobs:
           GATSBY_ALGOLIA_APP_ID: ${{ secrets.AIO_ALGOLIA_APP_ID }}
           GATSBY_ALGOLIA_API_KEY: ${{ secrets.AIO_ALGOLIA_API_KEY }}
           ALGOLIA_WRITE_API_KEY: ${{ secrets.AIO_ALGOLIA_WRITE_API_KEY }}
-          ALGOLIA_INDEXATION_MODE: ${{ github.event.inputs.index-mode || 'index' }}          
+          ALGOLIA_INDEXATION_MODE: ${{ github.event.inputs.index-mode || 'index' }}
           GATSBY_ALGOLIA_INDEX_NAME: ${{ secrets.ALGOLIA_INDEX_NAME || github.event.repository.name }}
           ALGOLIA_INDEX_NAME: ${{ secrets.ALGOLIA_INDEX_NAME || github.event.repository.name }}
           GATSBY_ALGOLIA_INDEX_ALL_SRC: ${{ secrets.AIO_ALGOLIA_INDEX_ALL_SRC }}
