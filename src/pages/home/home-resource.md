@@ -10,11 +10,10 @@ noIndex: true
 
 [](https://www.aem.live/developers-live?utm_source=devsite&utm_medium=websiteutm_campaign=adl2025)
 
-![Adobe Developers Live](../images/Developers_Live_Banner_Agentic.png)
+![Adobe Developers Live](../images/ADL-2025.png)
 
 ### Adobe Developers Live
-
-Adobe Developers Live  
+  
 Nov 10-12, 2025 | San Jose & Online  
 Join AEM and Commerce developers to explore AI, extensibility, and Building the Agentic Web. Register now!
 

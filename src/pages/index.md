@@ -23,7 +23,7 @@ import HomeMiniCards from './home/home-minicards.md';
 Adobe products and services empower developers
 
 * [Explore our APIs](/apis)
-* [Explore our MCPs](/ai)
+* [Explore our MCPs](/ai-registry)
 
 <TitleBlock slots="heading" theme="lightest" className="Get-started-building"/>
 

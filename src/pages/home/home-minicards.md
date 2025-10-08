@@ -26,7 +26,7 @@ noIndex: true
 
 ### Adobe MCP Registry
 
-[Learn More](https://developer.adobe.com/ai/)
+[Learn More](https://developer.adobe.com/ai-registry/)
 
 ![Adobe Document Cloud](../images/dc_appicon_64.png)
 
