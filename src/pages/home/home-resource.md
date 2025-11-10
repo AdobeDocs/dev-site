@@ -8,12 +8,12 @@ noIndex: true
 
 <ResourceCard slots="link, image, heading, text" width="33%"  theme='lightest' className="useCaseCard" />
 
-[](https://www.aem.live/developers-live?utm_source=devsite&utm_medium=websiteutm_campaign=adl2025)
+[](https://aem.live/developers-live?utm_source=devsite&utm_medium=website&utm_campaign=adl2025)
 
-![Adobe Developers Live](../images/ADL-2025.png)
+![App Builder](../images/ADL-2025.png)
 
 ### Adobe Developers Live
-  
+
 Nov 10-12, 2025 | San Jose & Online  
 Join AEM and Commerce developers to explore AI, extensibility, and Building the Agentic Web. Register now!
 
