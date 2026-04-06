@@ -22,9 +22,9 @@ noIndex: true
 
 [Learn More](https://developer.adobe.com/app-builder/)
 
-![Adobe MCP Registry](../images/adobe_white_logo.png)
+![Adobe AI Registry](../images/adobe_white_logo.png)
 
-### Adobe MCP Registry
+### Adobe AI Registry
 
 [Learn More](https://developer.adobe.com/ai-registry/)
 
