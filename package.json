@@ -8,7 +8,7 @@
     "url": "https://github.com/AdobeDocs/dev-site"
   },
   "dependencies": {
-    "@adobe/gatsby-theme-aio": "4.15.4",
+    "@adobe/gatsby-theme-aio": "4.15.6",
     "axios": "0.30.0",
     "gatsby": "4.22.0",
     "react": "^17.0.2",
