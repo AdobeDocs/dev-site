@@ -8,14 +8,13 @@ noIndex: true
 
 <ResourceCard slots="link, image, heading, text" width="33%"  theme='lightest' className="useCaseCard" />
 
-[](https://aem.live/developers-live?utm_source=devsite&utm_medium=website&utm_campaign=adl2025)
+[](https://www.youtube.com/playlist?list=PLGcTTvgqJhNXL5proK9dRmu5n5lCmLHc0)
 
-![App Builder](../images/ADL-2025.png)
+![App Builder](../images/Dev-Hero-banner-2.png)
 
 ### Adobe Developers Live
 
-Nov 10-12, 2025 | San Jose & Online  
-Join AEM and Commerce developers to explore AI, extensibility, and Building the Agentic Web. Register now!
+Watch the recordings from the AEM and Adobe Commerce Developers Live held in November 2025 as they explore AI, extensibility and Building the Agentic Web.
 
 <ResourceCard slots="link, image, heading, text" width="33%"  theme='lightest' className="useCaseCard"/>
 
