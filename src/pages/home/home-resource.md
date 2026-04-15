@@ -10,7 +10,7 @@ noIndex: true
 
 [](https://www.youtube.com/playlist?list=PLGcTTvgqJhNXL5proK9dRmu5n5lCmLHc0)
 
-![App Builder](../images/Dev-Hero-banner-2.png)
+![App Builder](../images/ADL-2025.png)
 
 ### Adobe Developers Live
 
