@@ -16,7 +16,7 @@ import HomeMiniCards from './home/home-minicards.md';
 
 <Hero slots="image, heading, text, buttons" variant="fullwidth" background="rgb(15, 55, 95)" className="index-hero"/>
 
-![](./images/F_Illu_DevEcoHomepage_1440x500_2x.png)
+![](./images/Dev-Hero-banner-2.png)
 
 # The most memorable digital experiences are unleashed by developer creativity
 
